@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @LifeJiggy
+# 👋 Hi, @ArkhAngelLifeJiggy 
 
 I'm Stephen, a passionate software developer with a focus on **web application security** and ethical hacking. I specialize in building secure applications and uncovering vulnerabilities to make the web a safer place.
 
