@@ -26,7 +26,7 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
 - ✅ **Secure Development** – Building apps that *resist* attacks
 
 ### Tools I Live In
-Burp Suite • Browser DevTools • Git • Docker • AWS • GitHub Actions
+VS-Code • Pycharm • Burp Suite • Browser DevTools • Zap Proxy • SQLmap • Git • Docker • AWS • GitHub Actions
 
 ---
 
