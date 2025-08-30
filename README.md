@@ -26,7 +26,7 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
 - ✅ **Secure Development** – Building apps that *resist* attacks
 
 ### Tools I Live In
-Ghidra • IDA Pro • GDB=• Burp Suite • Frida • AFL++ • Git • Docker • AWS • GitHub Actions
+Burp Suite • Browser DevTools • Git • Docker • AWS • GitHub Actions
 
 ---
 
@@ -34,8 +34,8 @@ Ghidra • IDA Pro • GDB=• Burp Suite • Frida • AFL++ • Git • Docker
 
 I don’t just find bugs — I **reverse-engineer systems**, **build offensive tools**, and **engineer exploits** that expose deep architectural flaws.
 
-- Hunting **0-day, Critical, High, Meduim Vulnerabilities** in web, mobile, and desktop apps
-- Developing **Web Crawler, Mapper**, **AI-powered security tools** and **smart fuzzers**
+- Hunting **0-day, Critical, High, Meduim Vulnerabilities** in web, network and mobile apps
+- Developing **Web Crawler, Mapper**, **AI-powered chatbot, real-live project and security tools** and **smart fuzzers**
 - Reverse engineering closed-source software and protocols
 - Writing **exploits** for memory corruption, logic flaws, and race conditions
 - Engineering **obscure prompt injections** to test AI system integrity
