@@ -28,6 +28,9 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
 ### Tools I Live In
 VS-Code • Pycharm • Burp Suite • Browser DevTools • Zap Proxy • SQLmap • Git • Docker • AWS • GitHub Actions
 
+### Operating System 
+Windows • Kali Linux • Parrot Os • Arch Linux 
+
 ---
 
 ## 🔍 What I Do
