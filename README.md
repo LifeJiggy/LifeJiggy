@@ -20,7 +20,7 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
 ### Security Domains
 - ✅ **Bug Bounty Hunting** – Hunting critical flaws in real-world apps
 - ✅ **Reverse Engineering** – Analyzing binaries, firmware, and malware
-- ✅ **Web App Security** – XSS, SSRF, IDOR, RCE, Auth bypass
+- ✅ **Web App Security** – XSS, SQLI, SSRF, IDOR, PATH, LFI, RCE, Auth bypass
 - ✅ **AI Security** – Prompt injection, model leakage, LLM red teaming
 - ✅ **Exploit Development** – From PoC to working shell
 - ✅ **Secure Development** – Building apps that *resist* attacks
