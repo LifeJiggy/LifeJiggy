@@ -73,7 +73,7 @@ Whether it's a joint write-up, tool development, or just geeking out over a cool
 - **𝕏 (Twitter)**: https://www.x.com/@Arkhlifejiggy
 - **Email**: [Bloomtonjovish@gmail.com] | [emperorstephenpee001@gmail.com]
 - **GitHub**: [github.com/LifeJiggy](https://github.com/LifeJiggy)
-- **CTF/Writeups**: [Coming soon — or link your blog/portfolio]
+- **CTF/Writeups**: [Coming soon]
 
 💬 DM me on X for collabs, tips, or just to talk security, AI, or the next 0-day.
 
@@ -87,6 +87,7 @@ He/Him
 ---
 
 ⭐️ **If you're building something secure, breaking something insecure, or pushing the edge of AI safety — let’s team up.**  
+
 The future of security isn’t just defense. It’s **deep understanding, creativity, and relentless curiosity.**
 
 And I’m all in.
