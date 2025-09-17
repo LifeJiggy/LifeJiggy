@@ -11,11 +11,45 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
 ## 🛠️ My Cyber Arsenal
 
 ### Languages & Tech Stack
-- **Python** – Exploit dev, automation, tooling
-- **JavaScript/HTML** – Web attacks, DOM exploitation, payload crafting
-- **Go** – Fast, secure tools & network utilities
-- **C++** – Reverse engineering, binary analysis, memory corruption
-- **Bash/PowerShell** – Red team scripting
+
+## Python – Exploit dev, automation, tooling.
+   ## Frameworks: Scapy, pwntools, Flask/FastAPI, Requests, Tinker, PyQT5.
+   ## Security Modules: Impacket, Cryptography, PyJWT, SQLMap API, Mitmproxy.
+   ## AI/ML Modules: PyTorch, NLTK, Scikit-learn, Transformers (HuggingFace), LangChain, sentence-transformers.
+
+
+
+## JavaScript/HTML – Web attacks, DOM exploitation, payload crafting
+   ## Frameworks: Node.js, React, Express, Next.js.
+   ## Security Tools: DOMPurify, JSDetox.
+   ## AI Modules: TensorFlow.js, Brain.js.
+
+
+
+## TypeScript – Safer, structured JS for modern apps & tooling
+   ## Frameworks: NestJS, Angular, Deno
+   ## Security Tools: tsyringe (DI for secure arch), ESLint security plugins
+   ## AI Modules: ONNX Runtime, tfjs-ts
+
+
+## Go – Fast, secure tools & network utilities
+   ## Frameworks: Gin, Cobra, gRPC
+   ## Security Modules: go-net/http2, Zap (logging), go-impacket, nmap bindings
+   ## AI Modules: Gorgonia, GoLearn
+
+
+
+C++ – Reverse engineering, binary analysis, memory corruption
+
+  ## Frameworks/Libs: LLVM, Boost, Qt
+  ## Security Tools: Capstone, Unicorn Engine, Radare2 APIs
+  ## AI Modules: mlpack, Dlib
+
+
+## Bash/PowerShell – Red team scripting.
+   ## Tools: Metasploit integration, Empire, PowerSploit, Nmap
+   ## AI Modules: API hooks into Python-based ML models (PyTorch/TensorFlow serving)
+
 
 ### Security Domains
 - ✅ **Bug Bounty Hunting** – Hunting critical flaws in real-world apps
