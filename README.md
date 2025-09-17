@@ -12,6 +12,7 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
 
 ### Languages & Tech Stack
 
+
 ## Python – Exploit dev, automation, tooling.
    
    **Frameworks: Scapy, pwntools, Flask/FastAPI, Requests, Tinker, PyQT5.**
@@ -19,6 +20,7 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
    **Security Modules: Impacket, Cryptography, PyJWT, SQLMap API, Mitmproxy.**
    
    **AI/ML Modules: PyTorch, NLTK, Scikit-learn, Transformers (HuggingFace), LangChain, sentence-transformers.**
+
 
 
 ## JavaScript/HTML – Web attacks, DOM exploitation, payload crafting
@@ -40,6 +42,7 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
    **AI Modules: ONNX Runtime, tfjs-ts**
 
 
+
 ## Go – Fast, secure tools & network utilities
    
    **Frameworks: Gin, Cobra, gRPC**
@@ -47,6 +50,7 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
    **Security Modules: go-net/http2, Zap (logging), go-impacket, nmap bindings**
    
    **AI Modules: Gorgonia, GoLearn**
+
 
 
 ## C++ – Reverse engineering, binary analysis, memory corruption
@@ -58,11 +62,13 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
    **AI Modules: mlpack, Dlib**
 
 
+
 ## Bash/PowerShell – Red team scripting.
    
    **Tools: Metasploit integration, Empire, PowerSploit, Nmap**
    
    **AI Modules: API hooks into Python-based ML models (PyTorch/TensorFlow serving)**
+
 
 
 
@@ -74,13 +80,16 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
 - ✅ **Exploit Development** – From PoC to working shell
 - ✅ **Secure Development** – Building apps that *resist* attacks
 
+
 ### Tools I Live In
 VS-Code • Pycharm • Burp Suite • Browser DevTools • Zap Proxy • SQLmap • Git • Docker • AWS • GitHub Actions
+
 
 ### Operating System 
 Windows • Kali Linux • Parrot Os • Arch Linux 
 
 ---
+
 
 ## 🔍 What I Do
 
