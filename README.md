@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Stephen — Security Researcher | Bug Bounty Hunter | Cyber Alchemist
 
-I'm a multidisciplinary **security researcher and offensive developer** with a mission: **to uncover hidden flaws before they become breaches**.  
-From code to binaries, AI prompts to zero-days — I hunt vulnerabilities across the stack to make systems safer, smarter, and more resilient.
+**I'm a multidisciplinary **security researcher and offensive developer** with a mission: **to uncover hidden flaws before they become breaches**.  
+From code to binaries, AI prompts to zero-days — I hunt vulnerabilities across the stack to make systems safer, smarter, and more resilient.**
 
 🔐 **"Many roles, one goal"**:  
-Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer • Prompt Alchemist
+**Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer • Prompt Alchemist**
 
 ---
 
@@ -15,7 +15,7 @@ Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer �
 
 ## Python – Exploit dev, automation, tooling.
    
-   **Frameworks: Scapy, pwntools, Flask/FastAPI, Requests, Tinker, PyQT5.**
+   **Frameworks: Aiohttp, Scapy, pwntools, Flask/FastAPI, Requests, Tinker, PyQT5.**
    
    **Security Modules: Impacket, Cryptography, PyJWT, SQLMap API, Mitmproxy.**
    
