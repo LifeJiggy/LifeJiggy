@@ -4,7 +4,7 @@
 From code to binaries, AI prompts to zero-days — I hunt vulnerabilities across the stack to make systems safer, smarter, and more resilient.**
 
 🔐 **"Many roles, one goal"**:  
-**Bug Bounty Hunter • Software Developer • AI Engineer • Reverse Engineer • Prompt Alchemist**
+**Bug Bounty Hunter • Software Developer • AI Integrator • Reverse Engineer • Chess Player**
 
 ---
 
@@ -130,7 +130,9 @@ Whether it's a joint write-up, tool development, or just geeking out over a cool
 ## 📫 Reach Me
 - **𝕏 (Twitter)**: https://www.x.com/@Arkhlifejiggy
 - **Email**: [Bloomtonjovish@gmail.com] | [emperorstephenpee001@gmail.com]
-- **GitHub**: [github.com/LifeJiggy](https://github.com/LifeJiggy)
+- **Gitlab**: https://gitlab.com/ArkhAngelLifeJiggy
+- **Pypi**: https://pypi.org/user/Arkhangellifejiggy
+- **Medium**: https://medium.com/@ArkhAngelLifeJiggy
 - **CTF/Writeups**: [Coming soon]
 
 💬 DM me on X for collabs, tips, or just to talk security, AI, or the next 0-day.
