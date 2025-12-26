@@ -1,3 +1,7 @@
+ 💀ArkhAngelLifeJiggy:~#
+
+Pray. Smoke. Code. Hack. Eat. Smoke. Pray. Sleep. Repeat!!!
+
 # 👋 Hi, I'm Stephen — Security Researcher | Bug Bounty Hunter | Cyber Alchemist
 
 **I'm a multidisciplinary **security researcher and offensive developer** with a mission: **to uncover hidden flaws before they become breaches**.  
