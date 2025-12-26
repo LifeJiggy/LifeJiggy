@@ -86,18 +86,18 @@ From code to binaries, AI prompts to zero-days — I hunt vulnerabilities across
 
 
 ### Tools I Live In
-VS-Code • Pycharm • Burp Suite • Browser DevTools • Zap Proxy • SQLmap • Git • Docker • AWS • GitHub Actions
+## VS-Code • Pycharm • Burp Suite • Browser DevTools • Zap Proxy • SQLmap • Git • Docker • AWS • GitHub Actions
 
 
 ### Operating System 
-Windows • Kali Linux • Parrot Os • Arch Linux 
+## Windows • Kali Linux • Parrot Os • Arch Linux 
 
 ---
 
 
 ## 🔍 What I Do
 
-I don’t just find bugs — I **reverse-engineer systems**, **build offensive tools**, and **engineer exploits** that expose deep architectural flaws.
+## I don’t just find bugs — I **reverse-engineer systems**, **build offensive tools**, and **engineer exploits** that expose deep architectural flaws.
 
 - Hunting **0-day, Critical, High, Meduim Vulnerabilities** in web, network and mobile apps
 - Developing **Web Crawler, Mapper**, **AI-powered chatbot, real-live project and security tools** and **smart fuzzers**
@@ -105,8 +105,8 @@ I don’t just find bugs — I **reverse-engineer systems**, **build offensive t
 - Writing **exploits** for memory corruption, logic flaws, and race conditions
 - Engineering **obscure prompt injections** to test AI system integrity
 
-🎯 My goal? **Protect by exposing.**  
-Every flaw I uncover is a breach *prevented*, a system *hardened*, a lesson *learned*.
+## 🎯 My goal? **Protect by exposing.**  
+## Every flaw I uncover is a breach *prevented*, a system *hardened*, a lesson *learned*.
 
 ---
 
@@ -132,26 +132,34 @@ Whether it's a joint write-up, tool development, or just geeking out over a cool
 ---
 
 ## 📫 Reach Me
+
 - **𝕏 (Twitter)**: https://www.x.com/@Arkhlifejiggy
 - **Email**: [Bloomtonjovish@gmail.com] | [emperorstephenpee001@gmail.com]
-- **Gitlab**: https://gitlab.com/ArkhAngelLifeJiggy
+- **Portfolio**: https://arkhangel-lifejiggy.vercel.app
+- **X**: @ArkhLifeJiggy
+- **Reddit**: u/ArkhAngelLifeJiggy
+-‎**Discord**: @arkhangelnirchnllifejiggy
+- **Bugcrowd**: https://www.bugcrowd.com/ArkhAngelLifeJiggy
+- **Hackerone**: https://hackerone.com/arkhangellifejiggy
 - **Pypi**: https://pypi.org/user/Arkhangellifejiggy
+- **Npm**: https://www.npmjs.com/~arkhangellifejiggy
 - **Medium**: https://medium.com/@ArkhAngelLifeJiggy
 - **CTF/Writeups**: [Coming soon]
+---
 
-💬 DM me on X for collabs, tips, or just to talk security, AI, or the next 0-day.
+## 💬 DM me on X for collabs, tips, or just to talk security, AI, or the next 0-day.
 
 ---
 
 ## 😄 Pronouns
-He/Him
+**He/Him**
 
 ## ⚡ Fun Fact
  I love finding creative ways to break (and fix!) applications
 ---
 
-⭐️ **If you're building something secure, breaking something insecure, or pushing the edge of AI safety — let’s team up.**  
+## ⭐️ **If you're building something secure, breaking something insecure, or pushing the edge of AI safety — let’s team up.**  
 
-The future of security isn’t just defense. It’s **deep understanding, creativity, and relentless curiosity.**
+## The future of security isn’t just defense. It’s **deep understanding, creativity, and relentless curiosity.**
 
-And I’m all in.
+## And I’m all in.
