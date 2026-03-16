@@ -35,8 +35,11 @@ PyTorch • Transformers (HuggingFace) • LangChain • Scikit-learn
 
 ---
 
+---
+
 ### Operating System 
  Windows • Kali Linux • Parrot Os • Arch Linux 
+---
 
 ## 🔧 What I Build
 
