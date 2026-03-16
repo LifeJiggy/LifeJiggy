@@ -35,7 +35,7 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 **Languages**
 
-Python • JavaScript • TypeScript • Go • C++ • Bash
+Python • JavaScript • TypeScript • Go  • Bash
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight)
 
