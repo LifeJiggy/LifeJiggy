@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
+
 # 👋 Hi, I'm Stephen (LifeJiggy)
 
 Security Researcher • Bug Bounty Hunter • AI Security Engineer • Software Developer • Apologist • Chess Player 
@@ -7,6 +9,9 @@ I build security tooling and AI-driven systems to discover vulnerabilities befor
 My work focuses on offensive security, automation, and agentic AI systems for vulnerability discovery and developer workflows.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LifeJiggy&theme=tokyonight)
 ---
 
 ## 🔬 Focus Areas
@@ -78,6 +83,8 @@ Open to collaborating on:
 [![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeJiggy&theme=tokyo-night)](https://github.com/LifeJiggy)
 
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=LifeJiggy&theme=tokyonight)
+
 ## 📫 Connect
 
 X (Twitter): https://x.com/ArkhLifeJiggy  
@@ -96,3 +103,4 @@ Email: Bloomtonjovish@gmail.com
 ---
 
 ⭐ If you're building secure systems, researching vulnerabilities, or exploring AI security — let's collaborate.
+
