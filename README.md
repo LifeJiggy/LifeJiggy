@@ -1,165 +1,88 @@
- 💀ArkhAngelLifeJiggy:~#
+# 👋 Hi, I'm Stephen (LifeJiggy)
 
-Pray. Smoke. Code. Hack. Eat. Smoke. Pray. Sleep. Repeat!!!
+Security Researcher • Bug Bounty Hunter • AI Security Engineer • Software Developer • Apologist • Chess Player 
 
-# 👋 Hi, I'm Stephen — Security Researcher | Bug Bounty Hunter | Cyber Alchemist
+I build security tooling and AI-driven systems to discover vulnerabilities before attackers do.
 
-**I'm a multidisciplinary **security researcher and offensive developer** with a mission: **to uncover hidden flaws before they become breaches**.  
-From code to binaries, AI prompts to zero-days — I hunt vulnerabilities across the stack to make systems safer, smarter, and more resilient.**
-
-🔐 **"Many roles, one goal"**:  
-**Bug Bounty Hunter • Software Developer • AI Integrator • Reverse Engineer • Chess Player**
+My work focuses on offensive security, automation, and agentic AI systems for vulnerability discovery and developer workflows.
 
 ---
 
-## 🛠️ My Cyber Arsenal
+## 🔬 Focus Areas
 
-### Languages & Tech Stack
+• Bug Bounty Hunting 0-day, Critical, High, Meduim Vulnerabilities  
+• Web Application Security  
+• AI / LLM Security (prompt injection, model exploitation)  
+• Reverse Engineering & Binary Analysis  
+• Exploit Development  
+• Security Automation & Developer Tooling  
 
+---
 
-## Python – Exploit dev, automation, tooling.
-   
-   **Frameworks: Aiohttp, Scapy, pwntools, Flask/FastAPI, Requests, Tinker, PyQT5.**
-   
-   **Security Modules: Impacket, Cryptography, PyJWT, SQLMap API, Mitmproxy.**
-   
-   **AI/ML Modules: PyTorch, NLTK, Scikit-learn, Transformers (HuggingFace), LangChain, sentence-transformers.**
+## 🛠 Tech Stack
 
+**Languages**
 
+Python • JavaScript • TypeScript • Go • C++ • Bash
 
-## JavaScript/HTML – Web attacks, DOM exploitation, payload crafting
-   
-   **Frameworks: Node.js, React, Express, Next.js.**
-   
-   **Security Tools: DOMPurify, JSDetox.**
-   
-   **AI Modules: TensorFlow.js, Brain.js.**
+**Security & Development Tools**
 
+ VS-Code • Pycharm • Browser DevTools • Burp Suite • SQLmap • Git • Docker • GitHub Actions
 
+**AI / Automation**
 
-## TypeScript – Safer, structured JS for modern apps & tooling
-   
-   **Frameworks: NestJS, Angular, Deno**
-   
-   **Security Tools: tsyringe (DI for secure arch), ESLint security plugins**
-   
-   **AI Modules: ONNX Runtime, tfjs-ts**
+PyTorch • Transformers (HuggingFace) • LangChain • Scikit-learn
 
-
-
-## Go – Fast, secure tools & network utilities
-   
-   **Frameworks: Gin, Cobra, gRPC**
-   
-   **Security Modules: go-net/http2, Zap (logging), go-impacket, nmap bindings**
-   
-   **AI Modules: Gorgonia, GoLearn**
-
-
-
-## C++ – Reverse engineering, binary analysis, memory corruption
-   
-   **Frameworks/Libs: LLVM, Boost, Qt**
-   
-   **Security Tools: Capstone, Unicorn Engine, Radare2 APIs**
-   
-   **AI Modules: mlpack, Dlib**
-
-
-
-## Bash/PowerShell – Red team scripting.
-   
-   **Tools: Metasploit integration, Empire, PowerSploit, Nmap**
-   
-   **AI Modules: API hooks into Python-based ML models (PyTorch/TensorFlow serving)**
-
-
-
-
-### Security Domains
-- ✅ **Bug Bounty Hunting** – Hunting critical flaws in real-world apps
-- ✅ **Reverse Engineering** – Analyzing binaries, firmware, and malware
-- ✅ **Web App Security** – XSS, SQLI, SSRF, IDOR, PATH, LFI, RCE, Auth bypass
-- ✅ **AI Security** – Prompt injection, model leakage, LLM red teaming
-- ✅ **Exploit Development** – From PoC to working shell
-- ✅ **Secure Development** – Building apps that *resist* attacks
-
-
-### Tools I Live In
-## VS-Code • Pycharm • Burp Suite • Browser DevTools • Zap Proxy • SQLmap • Git • Docker • AWS • GitHub Actions
-
+---
 
 ### Operating System 
-## Windows • Kali Linux • Parrot Os • Arch Linux 
+ Windows • Kali Linux • Parrot Os • Arch Linux 
+
+## 🔧 What I Build
+
+• AI-powered vulnerability discovery tools  
+• Security automation frameworks  
+• Web reconnaissance & exploitation utilities  
+• Developer CLI tools for security research  
+• Bug bounty infrastructure
 
 ---
 
+## 🌱 Currently Working On
 
-## 🔍 What I Do
-
-## I don’t just find bugs — I **reverse-engineer systems**, **build offensive tools**, and **engineer exploits** that expose deep architectural flaws.
-
-- Hunting **0-day, Critical, High, Meduim Vulnerabilities** in web, network and mobile apps
-- Developing **Web Crawler, Mapper**, **AI-powered chatbot, real-live project and security tools** and **smart fuzzers**
-- Reverse engineering closed-source software and protocols
-- Writing **exploits** for memory corruption, logic flaws, and race conditions
-- Engineering **obscure prompt injections** to test AI system integrity
-
-## 🎯 My goal? **Protect by exposing.**  
-## Every flaw I uncover is a breach *prevented*, a system *hardened*, a lesson *learned*.
+• Agentic AI systems for automated vulnerability discovery  
+• AI-assisted security tooling  
+• Advanced bug bounty workflows  
+• Open-source developer tools for the security community
 
 ---
 
-## 🌱 Currently Exploring
-- Advanced **binary exploitation** and kernel-level vulnerabilities
-- **Bug bounty hunting**
-- **AI/ML security**: Adversarial attacks, data poisoning, model theft
-- **Automated vulnerability discovery** using code analysis + AI
-- **Firmware hacking** and embedded device security (IoT/OT)
-- Building **open-source tools** for the security community
+## 🤝 Collaboration
+
+Open to collaborating on:
+
+• Security research projects  
+• Bug bounty teams  
+• AI security research  
+• Open-source security tools and contribution
 
 ---
 
-## 💞️ Let's Collaborate
-I'm always open to working with:
-- Security researchers on **bug bounty teams** or **private programs**
-- Developers building **secure-by-design** applications
-- Open-source projects focused on **security tooling** or **vulnerability research**
-- AI engineers pushing the edge of **LLM security & red teaming**
+## 📫 Connect
 
-Whether it's a joint write-up, tool development, or just geeking out over a cool exploit — let’s connect.
+X (Twitter): https://x.com/ArkhLifeJiggy  
+Portfolio: https://arkhangel-lifejiggy.vercel.app  
 
----
+Bugcrowd: https://www.bugcrowd.com/ArkhAngelLifeJiggy  
+HackerOne: https://hackerone.com/arkhangellifejiggy  
 
-## 📫 Reach Me
+PyPI: https://pypi.org/user/Arkhangellifejiggy  
+npm: https://www.npmjs.com/~arkhangellifejiggy  
 
-- **𝕏 (Twitter)**: https://www.x.com/@Arkhlifejiggy
-- **Email**: [Bloomtonjovish@gmail.com] | [emperorstephenpee001@gmail.com]
-- **Portfolio**: https://arkhangel-lifejiggy.vercel.app
-- **X**: @ArkhLifeJiggy
-- **Reddit**: u/ArkhAngelLifeJiggy
--‎**Discord**: @arkhangelnirchnllifejiggy
-- **Bugcrowd**: https://www.bugcrowd.com/ArkhAngelLifeJiggy
-- **Hackerone**: https://hackerone.com/arkhangellifejiggy
-- **Pypi**: https://pypi.org/user/Arkhangellifejiggy
-- **Npm**: https://www.npmjs.com/~arkhangellifejiggy
-- **Medium**: https://medium.com/@ArkhAngelLifeJiggy
-- **CTF/Writeups**: [Coming soon]
----
+Discord: @arkhangelnirchnllifejiggy
 
-## 💬 DM me on X for collabs, tips, or just to talk security, AI, or the next 0-day.
+Email: Bloomtonjovish@gmail.com
 
 ---
 
-## 😄 Pronouns
-**He/Him**
-
-## ⚡ Fun Fact
- I love finding creative ways to break (and fix!) applications
----
-
-## ⭐️ **If you're building something secure, breaking something insecure, or pushing the edge of AI safety — let’s team up.**  
-
-## The future of security isn’t just defense. It’s **deep understanding, creativity, and relentless curiosity.**
-
-## And I’m all in.
+⭐ If you're building secure systems, researching vulnerabilities, or exploring AI security — let's collaborate.
