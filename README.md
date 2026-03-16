@@ -1,8 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy)+-+Security+Researcher;%24+cat+skills.txt;Bug+Bounty+Hunter+|+AI+Security+Engineer;%24+running+vulnerability+scanner...;%24+access+granted" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Security+Researcher+%7C+Bug+Bounty+Hunter+%7C+AI+Security+Engineer+%7C+Software+Developer+%7C+Apologist+%7C+Chess+Player;%24+mission;Building+security+tooling+and+AI-driven+systems;%24+status;Running+vulnerability+scanner...;%24+system+ready" />
 </p>
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
+
 
 # 👋 Hi, I'm Stephen (LifeJiggy)
 
