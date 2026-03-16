@@ -6,6 +6,7 @@ I build security tooling and AI-driven systems to discover vulnerabilities befor
 
 My work focuses on offensive security, automation, and agentic AI systems for vulnerability discovery and developer workflows.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔬 Focus Areas
@@ -24,6 +25,8 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 **Languages**
 
 Python • JavaScript • TypeScript • Go • C++ • Bash
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight)
 
 **Security & Development Tools**
 
@@ -46,10 +49,11 @@ PyTorch • Transformers (HuggingFace) • LangChain • Scikit-learn
 • AI-powered vulnerability discovery tools  
 • Security automation frameworks  
 • Web reconnaissance & exploitation utilities  
-• Developer CLI tools for security research  
+• Developer CLI tools for security research 
 • Bug bounty infrastructure
 
 ---
+
 
 ## 🌱 Currently Working On
 
@@ -70,6 +74,9 @@ Open to collaborating on:
 • Open-source security tools and contribution
 
 ---
+
+[![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeJiggy&theme=tokyo-night)](https://github.com/LifeJiggy)
+
 
 ## 📫 Connect
 
