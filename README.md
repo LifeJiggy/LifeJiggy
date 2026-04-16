@@ -22,7 +22,6 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lifejiggy&theme=tokyonight" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LifeJiggy&theme=tokyonight)
 ---
@@ -55,18 +54,39 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 **Security & Development Tools**
 
- VS-Code • Pycharm • Browser DevTools • Burp Suite • SQLmap • Git • Docker • GitHub Actions
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevTools-FE7A16?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 **AI / Automation**
 
-PyTorch • Transformers (HuggingFace) • LangChain • Scikit-learn
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ---
 
 ---
 
 ### Operating System 
- Windows • Kali Linux • Parrot Os • Arch Linux 
+
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot_OS-1F1F1F?style=for-the-badge&logo=linux&logoColor=green" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+</p>
+
 ---
 
 ## 🔧 What I Build
@@ -86,6 +106,7 @@ PyTorch • Transformers (HuggingFace) • LangChain • Scikit-learn
 • AI-assisted security tooling  
 • Advanced bug bounty workflows  
 • Open-source developer tools for the security community
+
 
 ---
 
