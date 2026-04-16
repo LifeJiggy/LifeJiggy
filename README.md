@@ -23,11 +23,12 @@ LifeJiggy@github:~$ run system-status
 
 # 👋 Hi, I'm Stephen (LifeJiggy)
 
-Bug Bounty Hunter • Software Developer • AI/LLM Integration • Chess Player 
+Bug Bounty Hunter • Open Source Developer • AI/LLM Integration • Chess Player  
 
-I build security tooling and AI-driven systems to discover vulnerabilities before attackers do.
+I build security tooling and AI-driven systems focused on automated vulnerability discovery and offensive security workflows.
 
-My work focuses on offensive security, automation, and agentic AI systems for vulnerability discovery and developer workflows.
+My work centers on agentic AI, security automation, and multi-model LLM integration for identifying and validating real-world vulnerabilities.
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
 
