@@ -165,7 +165,7 @@ Open to collaborating on:
 [![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeJiggy&theme=tokyo-night)](https://github.com/LifeJiggy)
 
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=LifeJiggy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](https://github.com/LifeJiggy)
+[![Trophies](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=LifeJiggy&theme=tokyonight)](https://github.com/LifeJiggy)
 
 
 ## 📫 Connect
