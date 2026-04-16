@@ -8,6 +8,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Bug+Bounty+Hunter+%7C+AI+LLM+integration+%7C+Software+Developer+%7C++%7C+;%24+mission;Building+security+tooling+and+AI-driven+systems;%24+status;Running+vulnerability+scanner...;%24+system+ready" />
 </p>
 
+```bash
+LifeJiggy@github:~$ run system-status
+
+✔ LLM Integration: ACTIVE  
+✔ Security Scanning: RUNNING  
+✔ Agentic Workflows: OPERATIONAL  
+✔ Bug Bounty Mode: ENGAGED  
+```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
 
@@ -45,7 +53,7 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-  <img src="https://img.shields.io/badge/bash-111827?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 
@@ -76,6 +84,20 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 ---
 
+**LLM Integration Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-FF6A00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kimi-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MiniMax-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GLM-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+</p>
+
+
 ---
 
 ### Operating System 
@@ -91,14 +113,29 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 ## 🔧 What I Build
 
-• AI-powered vulnerability discovery tools  
-• Security automation frameworks  
+• Agentic AI systems (multi-model orchestration, task routing, tool execution)  
+• AI-powered vulnerability scanners (LLM + static/dynamic analysis)  
+• Security-focused CLI tools (automation, recon, exploit workflows)  
+• LLM-integrated developer tooling (code generation, analysis, refactoring)  
+• Bug bounty pipelines (recon → scan → validate → report)  
+• Autonomous workflows using markdown-driven task execution  
 • Web reconnaissance & exploitation utilities  
-• Developer CLI tools for security research 
-• Bug bounty infrastructure
+
+## 🚀 Core Projects
+
+• **Ghost 👻 (Python)**  
+  AI-powered vulnerability scanner with agentic workflows, multi-model reasoning, and automated reporting  
+
+• **Grok-Code CLI (TypeScript)**  
+  Multi-agent coding system integrating different LLM providers for autonomous development tasks  
+
+• **JSAnalyzer / DAST Engine (JavaScript)**  
+  Dynamic analysis + security testing engine for detecting web vulnerabilities  
+
+• **Arkhangel Orchestrator**  
+  Central system coordinating multiple agentic CLIs and LLM providers  
 
 ---
-
 
 ## 🌱 Currently Working On
 
@@ -106,6 +143,8 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 • AI-assisted security tooling  
 • Advanced bug bounty workflows  
 • Open-source developer tools for the security community
+
+
 
 
 ---
