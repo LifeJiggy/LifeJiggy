@@ -36,17 +36,15 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 ## 🔬 Focus Areas
 
-• Bug Bounty Hunting 0-day, Critical, High, Meduim Vulnerabilities  
-• Web Application Security  
-• AI / LLM Security (prompt injection, model exploitation)  
-• Reverse Engineering & Binary Analysis  
-• Exploit Development  
-• Security Automation & Developer Tooling  
-
+• Bug Bounty Hunting (0-day, Critical, High, Medium vulnerability discovery & validation)  
+• Web Application Security (OWASP Top 10, business logic flaws, API security)  
+• AI / LLM Security (prompt injection, jailbreaks, model abuse, unsafe tool execution)  
+• Reverse Engineering & Binary Analysis (static + dynamic analysis workflows)  
+• Exploit Development (custom payloads, chaining vulnerabilities, privilege escalation)  
+• Security Automation & Developer Tooling (CLI tools, scanning pipelines, recon systems)  
 ---
 
 ## 🛠 Tech Stack
-
 
 ### Languages
 <p>
@@ -55,7 +53,6 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
-
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight)
@@ -139,12 +136,11 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 ## 🌱 Currently Working On
 
-• Agentic AI systems for automated vulnerability discovery  
-• AI-assisted security tooling  
-• Advanced bug bounty workflows  
-• Open-source developer tools for the security community
-
-
+• Agentic AI systems for autonomous vulnerability discovery (multi-model reasoning + tool use)  
+• AI-assisted security tooling (LLM + DAST/SAST hybrid analysis)  
+• Advanced bug bounty workflows (automated recon → scan → validation pipelines)  
+• LLM security research (prompt injection, agent exploitation, model behavior analysis)  
+• Local + cloud hybrid LLM infrastructure (Ollama + API orchestration)  
 
 
 ---
@@ -153,33 +149,46 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 Open to collaborating on:
 
-• Security research projects  
-• Bug bounty teams  
-• AI security research  
-• Open-source security tools and contribution
+• Advanced security research (0-day discovery, exploit development, red teaming)  
+• Bug bounty teams (private programs, coordinated testing, payout-focused workflows)  
+• AI / LLM security research (agent safety, model exploitation, defensive systems)  
+• Open-source security tools (automation frameworks, scanning engines, CLI tooling)  
 
 ---
 
 [![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeJiggy&theme=tokyo-night)](https://github.com/LifeJiggy)
 
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=LifeJiggy&theme=tokyonight)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=LifeJiggy&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10)](https://github.com/LifeJiggy)
+
 
 ## 📫 Connect
 
-X (Twitter): https://x.com/ArkhLifeJiggy  
-Portfolio: https://arkhangel-lifejiggy.vercel.app  
+<p>
+  <a href="https://x.com/ArkhLifeJiggy">
+    <img src="https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  
+  <a href="https://arkhangel-lifejiggy.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-Bugcrowd: https://www.bugcrowd.com/ArkhAngelLifeJiggy  
-HackerOne: https://hackerone.com/arkhangellifejiggy  
+  <a href="https://www.bugcrowd.com/ArkhAngelLifeJiggy">
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge" />
+  </a>
 
-PyPI: https://pypi.org/user/Arkhangellifejiggy  
-npm: https://www.npmjs.com/~arkhangellifejiggy  
+  <a href="https://hackerone.com/arkhangellifejiggy">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+  </a>
 
-Discord: @arkhangelnirchnllifejiggy
+  <a href="https://pypi.org/user/Arkhangellifejiggy">
+    <img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+  </a>
 
-Email: Bloomtonjovish@gmail.com
-
+  <a href="https://www.npmjs.com/~arkhangellifejiggy">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  </a>
+</p>
 ---
 
 ⭐ If you're building secure systems, researching vulnerabilities, or exploring AI security — let's collaborate.
