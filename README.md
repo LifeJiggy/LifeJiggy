@@ -4,6 +4,7 @@
 
 </div>
 
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Open+Source+Developer+%26+Contributor;%24+stack;Agentic+AI+%7C+LLM+Integration+%7C+Offensive+Security;%24+mission;Building+security+tooling+and+autonomous+systems;%24+status;Running+scanners+%7C+Orchestrating+agents...;%24+system;ACTIVE" />
 </p>
