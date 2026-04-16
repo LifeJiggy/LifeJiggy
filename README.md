@@ -91,6 +91,7 @@ My work centers on agentic AI, security automation, and multi-model LLM integrat
 **LLM Integration Stack**
 
 <p>
+  <img src="https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
@@ -98,7 +99,11 @@ My work centers on agentic AI, security automation, and multi-model LLM integrat
   <img src="https://img.shields.io/badge/Kimi-00C2FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MiniMax-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GLM-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenRouter-FF6A00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-00B67A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grok-1E1E1E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+</p>
 </p>
 
 
@@ -124,6 +129,7 @@ My work centers on agentic AI, security automation, and multi-model LLM integrat
 • Autonomous workflows using markdown-driven task execution  
 • Web reconnaissance & exploitation utilities  
 
+---
 ## 🚀 Core Projects
 
 • **Ghost 👻 (Python)**  
@@ -163,9 +169,6 @@ Open to collaborating on:
 ---
 
 [![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeJiggy&theme=tokyo-night)](https://github.com/LifeJiggy)
-
-
-[![Trophies](https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=LifeJiggy&theme=tokyonight)](https://github.com/LifeJiggy)
 
 
 ## 📫 Connect
