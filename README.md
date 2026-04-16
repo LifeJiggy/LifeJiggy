@@ -22,7 +22,7 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gnanam1990&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lifejiggy&theme=tokyonight" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LifeJiggy&theme=tokyonight)
 ---
