@@ -59,6 +59,8 @@ My work centers on agentic AI, security automation, and multi-model LLM integrat
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight)
 
+---
+
 **Security & Development Tools**
 
 <p>
@@ -72,6 +74,8 @@ My work centers on agentic AI, security automation, and multi-model LLM integrat
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
+---
+
 **AI / Automation**
 
 <p>
@@ -80,6 +84,7 @@ My work centers on agentic AI, security automation, and multi-model LLM integrat
   <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
+
 
 ---
 
