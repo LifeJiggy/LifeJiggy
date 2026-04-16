@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm Stephen (LifeJiggy)
 
-Security Researcher • Bug Bounty Hunter • AI Security Engineer • Software Developer • Apologist • Chess Player 
+Bug Bounty Hunter • Software Developer • AI/LLM Integration • Chess Player 
 
 I build security tooling and AI-driven systems to discover vulnerabilities before attackers do.
 
