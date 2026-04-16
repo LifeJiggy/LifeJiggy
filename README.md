@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Bug+Bounty+Hunter+%7C+AI+LLM+integration+%7C+Software+Developer+%7C++%7C+Chess+Player;%24+mission;Building+security+tooling+and+AI-driven+systems;%24+status;Running+vulnerability+scanner...;%24+system+ready" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Bug+Bounty+Hunter+%7C+AI+LLM+integration+%7C+Software+Developer+%7C++%7C+;%24+mission;Building+security+tooling+and+AI-driven+systems;%24+status;Running+vulnerability+scanner...;%24+system+ready" />
 </p>
 
 
