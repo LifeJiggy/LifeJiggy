@@ -1,3 +1,8 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=LifeJiggy%20%7C%20Open%20Source%20Developer&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Contributor%20to%20OpenClaude%20%7C%20Contributor%20to%20Open%20Source&projects=60&animation=fadeIn" />
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Security+Researcher+%7C+Bug+Bounty+Hunter+%7C+AI+Security+Engineer+%7C+Software+Developer+%7C+Apologist+%7C+Chess+Player;%24+mission;Building+security+tooling+and+AI-driven+systems;%24+status;Running+vulnerability+scanner...;%24+system+ready" />
 </p>
@@ -33,9 +38,16 @@ My work focuses on offensive security, automation, and agentic AI systems for vu
 
 ## 🛠 Tech Stack
 
-**Languages**
 
-Python • JavaScript • TypeScript • Go  • Bash
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/bash-111827?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight)
 
