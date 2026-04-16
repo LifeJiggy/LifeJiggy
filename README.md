@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=LifeJiggy%20%7C%20AI%20Security%20Engineer&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Bug%20Bounty%20Hunter%20%7C%20Agentic%20AI%20Systems%20%7C%20LLM%20Integration&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=LifeJiggy%20%7C%20Open%20Source%20Developer%20%26%20Contributor&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Bug%20Bounty%20Hunter%20%7C%20Agentic%20AI%20Systems%20%7C%20LLM%20Integration&animation=fadeIn" />
 
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Bug+Bounty+Hunter+%7C+AI+LLM+integration+%7C+Software+Developer+%7C++%7C+;%24+mission;Building+security+tooling+and+AI-driven+systems;%24+status;Running+vulnerability+scanner...;%24+system+ready" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Open+Source+Developer+%26+Contributor;%24+stack;Agentic+AI+%7C+LLM+Integration+%7C+Offensive+Security;%24+mission;Building+security+tooling+and+autonomous+systems;%24+status;Running+scanners+%7C+Orchestrating+agents...;%24+system;ACTIVE" />
 </p>
 
 ```bash
@@ -193,5 +193,4 @@ Open to collaborating on:
 **Email:** [Bloomtonjovish@gmail.com](mailto:Bloomtonjovish@gmail.com)
 ---
 
-⭐ If you're building secure systems, researching vulnerabilities, or exploring AI security — let's collaborate.
-
+⭐ Open to collaborating on open-source systems, AI tooling, and security research — let’s build, test, and break things that matter.
