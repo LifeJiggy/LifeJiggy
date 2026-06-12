@@ -62,12 +62,13 @@ My work centers on agentic AI, security automation, High-impact Open Source cont
 
 ## 🔬 Focus Areas
 
-• Bug Bounty Hunting (0-day, Critical, High, Medium vulnerability discovery & validation)  
-• Web Application Security (OWASP Top 10, business logic flaws, API security)  
-• AI / LLM Security (prompt injection, jailbreaks, model abuse, unsafe tool execution)  
-• Reverse Engineering & Binary Analysis (static + dynamic analysis workflows)  
-• Exploit Development (custom payloads, chaining vulnerabilities, privilege escalation)  
-• Security Automation & Developer Tooling (CLI tools, scanning pipelines, recon systems)  
+• Bug Bounty Hunting (critical, high-impact vulnerability discovery, validation & responsible disclosure)
+• Web Application Security (OWASP Top 10, business logic flaws, API security, authorization weaknesses)
+• AI / LLM Security (prompt injection, jailbreaks, tool abuse, agent exploitation, unsafe execution paths)
+• Agentic AI Systems (multi-agent workflows, tool orchestration, memory systems, runtime reliability)
+• Open Source Engineering (feature development, bug fixes, security hardening, system enhancement)
+• Security Automation & Developer Tooling (CLI tools, scanning pipelines, validation frameworks, workflow automation)
+• Runtime Reliability & Infrastructure (process lifecycle management, recovery systems, observability, fault tolerance)
 ---
 
 ## 🛠 Tech Stack
@@ -172,12 +173,15 @@ My work centers on agentic AI, security automation, High-impact Open Source cont
 
 ## 🌱 Currently Working On
 
-• Agentic AI systems for autonomous vulnerability discovery (multi-model reasoning + tool use)  
-• AI-assisted security tooling (LLM + DAST/SAST hybrid analysis)  
-• Advanced bug bounty workflows (automated recon → scan → validation pipelines)  
-• LLM security research (prompt injection, agent exploitation, model behavior analysis)  
-• Local + cloud hybrid LLM infrastructure (Ollama + API orchestration)  
+🌱 Currently Working On
 
+• Agentic AI systems for autonomous vulnerability discovery and validation
+• AI-assisted security tooling (LLM + SAST/DAST hybrid workflows)
+• Runtime reliability improvements across open-source agent ecosystems
+• OSS contributions to OpenClaude, Hermes-Agent, KiloCode, KimiCode and related projects
+• Advanced bug bounty workflows (automated recon → analysis → validation pipelines)
+• LLM security research (prompt injection, agent exploitation, tool safety, memory trust boundaries)
+• Local + cloud AI infrastructure (Ollama, self-hosted models, API orchestration, multi-model systems)
 
 ---
 
@@ -185,11 +189,12 @@ My work centers on agentic AI, security automation, High-impact Open Source cont
 
 Open to collaborating on:
 
-• Advanced security research (0-day discovery, exploit development, red teaming)  
-• Bug bounty teams (private programs, coordinated testing, payout-focused workflows)  
-• AI / LLM security research (agent safety, model exploitation, defensive systems)  
-• Open-source security tools (automation frameworks, scanning engines, CLI tooling)  
-
+• Security research (vulnerability discovery, exploit chains, defensive engineering)
+• AI / LLM security research (agent safety, prompt security, tool execution boundaries)
+• Agentic AI systems (multi-agent architectures, orchestration, reliability engineering)
+• Open-source developer tooling (CLI tooling, automation frameworks, infrastructure utilities)
+• Runtime reliability and platform hardening initiatives
+• OSS ecosystem improvements focused on maintainability, scalability and operational stability
 ---
 
 [![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeJiggy&theme=tokyo-night)](https://github.com/LifeJiggy)
