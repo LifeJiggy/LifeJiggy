@@ -75,6 +75,7 @@ My work centers on agentic AI, security automation, High-impact Open Source cont
 • Security Automation & Developer Tooling (CLI tools, scanning pipelines, validation frameworks, workflow automation)
 
 • Runtime Reliability & Infrastructure (process lifecycle management, recovery systems, observability, fault tolerance)
+
 ---
 
 ## 🛠 Tech Stack
@@ -245,15 +246,16 @@ Open to collaborating on:
   </a>
 </p>
 
-**Discord:** `arkhangelnirchnllifejiggy`  
-**Email:** [Bloomtonjovish@gmail.com](mailto:Bloomtonjovish@gmail.com)
+**Discord:** `arkhangellifejiggy`  
+
+**Email:** [Bloomtonjovish@gmail.com] (mailto:Bloomtonjovish@gmail.com)
 ---
 
-⭐ Open to collaborating on open-source systems, AI tooling, and security research — let’s build, test, and break things that matter.
+**⭐ Open to collaborating on open-source systems, AI tooling, and security research — let’s build, test, and break things that matter**.
 
 **"From Zero to Hero"** — Started with nothing but doubt. Survived blacklists, harsh rejections, and heavy pressure.  
 Now steadily stacking badges, merges, and blessings across the agentic space.
 
 **ArkhAngel Mode Activated** 🔥
 
-Always learning. Always building. Always rising. 🙏
+**Always learning. Always building. Always rising. 🙏**
