@@ -22,7 +22,6 @@ LifeJiggy@github:~$ run system-status
 Status: BUILDING THE FUTURE 🚀
 
 Current Mode: > BUILD > CONTRIBUTE > IMPROVE > REPEAT Status: ArkhAngel Mode Activated 🔥
-
 ```
 
 <p>
@@ -34,8 +33,6 @@ Current Mode: > BUILD > CONTRIBUTE > IMPROVE > REPEAT Status: ArkhAngel Mode Act
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
 
-```
-```
 
 # 👋 Hi, I'm Stephen (LifeJiggy)
 
@@ -289,7 +286,7 @@ Today, that journey has grown into contributor badges, merged pull requests, dev
 
 ⚔️ **ArkhAngel Mode Activated**
 
-**Building. Learning. Contributing. Improving.**
+**Building.  Hacking. Hunting. Learning. Contributing. Improving.**
 
 🚀 **The mission remains the same: create value, solve hard problems, and leave every system better than I found it.**
 
