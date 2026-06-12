@@ -4,7 +4,6 @@
 
 </div>
 
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Open+Source+Developer+%26+Contributor;%24+stack;Agentic+AI+%7C+LLM+Integration+%7C+Offensive+Security;%24+mission;Building+security+tooling+and+autonomous+systems;%24+status;Running+scanners+%7C+Orchestrating+agents...;%24+system;ACTIVE" />
 </p>
@@ -17,6 +16,12 @@ LifeJiggy@github:~$ run system-status
 ✔ Agentic Workflows: OPERATIONAL  
 ✔ Bug Bounty Mode: ENGAGED  
 ```
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Developer_Program-Member-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PR_Merges-20+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-620+-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-purple?style=for-the-badge" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
 
