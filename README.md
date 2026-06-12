@@ -31,9 +31,9 @@ LifeJiggy@github:~$ run system-status
 
 Bug Bounty Hunter • Open Source Developer • AI/LLM Integration • Chess Player  
 
-I build security tooling and AI-driven systems focused on automated vulnerability discovery and offensive security workflows.
+I build security tooling and AI-driven systems focused on automated vulnerability discovery, offensive security workflows and agentic intelligence. .
 
-My work centers on agentic AI, security automation, and multi-model LLM integration for identifying and validating real-world vulnerabilities.
+My work centers on agentic AI, security automation, High-impact Open Source contributions and multi-model LLM integration for identifying and validating real-world vulnerabilities.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
@@ -228,3 +228,10 @@ Open to collaborating on:
 ---
 
 ⭐ Open to collaborating on open-source systems, AI tooling, and security research — let’s build, test, and break things that matter.
+
+**"From Zero to Hero"** — Started with nothing but doubt. Survived blacklists, harsh rejections, and heavy pressure.  
+Now steadily stacking badges, merges, and blessings across the agentic space.
+
+**ArkhAngel Mode Activated** 🔥
+
+Always learning. Always building. Always rising. 🙏
