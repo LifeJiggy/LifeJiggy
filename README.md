@@ -29,11 +29,15 @@ LifeJiggy@github:~$ run system-status
 
 # 👋 Hi, I'm Stephen (LifeJiggy)
 
-Bug Bounty Hunter • Open Source Developer • AI/LLM Integration • Chess Player  
+Bug Bounty Hunter • Open Source Contributor • AI/LLM Engineer • Developer Program Member • Chess Player
 
-I build security tooling and AI-driven systems focused on automated vulnerability discovery, offensive security workflows and agentic intelligence. .
+I build security tooling, agentic AI systems, and developer infrastructure focused on automated vulnerability discovery, runtime reliability, and intelligent workflow automation.
 
-My work centers on agentic AI, security automation, High-impact Open Source contributions and multi-model LLM integration for identifying and validating real-world vulnerabilities.
+My work spans AI security, agent orchestration, open-source engineering, and multi-model LLM integration, with a strong focus on building practical systems that improve security research, developer productivity, and operational resilience.
+
+I actively contribute to leading agentic AI and developer ecosystems, delivering features, bug fixes, security hardening, and system enhancements across multiple open-source projects.
+
+Current interests include AI security, autonomous agents, runtime reliability, developer tooling, security automation, and scalable agentic infrastructure.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
@@ -153,15 +157,30 @@ My work centers on agentic AI, security automation, High-impact Open Source cont
 
 ## 🔧 What I Build
 
-• Agentic AI systems (multi-model orchestration, task routing, tool execution)  
-• AI-powered vulnerability scanners (LLM + static/dynamic analysis)  
-• Security-focused CLI tools (automation, recon, exploit workflows)  
-• LLM-integrated developer tooling (code generation, analysis, refactoring)  
-• Bug bounty pipelines (recon → scan → validate → report)  
-• Autonomous workflows using markdown-driven task execution  
-• Web reconnaissance & exploitation utilities  
+## 🔧 What I Build
 
+• Agentic AI systems (multi-agent orchestration, tool execution, memory workflows, task routing)
+
+• AI-powered security tooling (LLM-assisted vulnerability discovery, validation and analysis)
+
+• Security-focused CLI tools (automation, reconnaissance, workflow acceleration, operational tooling)
+
+• Open-source infrastructure improvements (runtime reliability, platform hardening, developer experience)
+
+• LLM-integrated developer tooling (code analysis, generation, refactoring, workflow automation)
+
+• Bug bounty automation pipelines (recon → analysis → validation → reporting)
+
+• Autonomous workflows powered by markdown-driven execution and agent collaboration
+
+• AI-assisted security research frameworks (prompt security, agent safety, model behavior analysis)
+
+• Runtime observability and reliability systems (recovery, lifecycle management, fault tolerance)
+
+• Web security and reconnaissance utilities (asset discovery, analysis and validation)
+  
 ---
+
 ## 🚀 Core Projects
 
 • **Ghost 👻 (Python)**  
@@ -251,11 +270,15 @@ Open to collaborating on:
 **Email:** [Bloomtonjovish@gmail.com] (mailto:Bloomtonjovish@gmail.com)
 ---
 
-**⭐ Open to collaborating on open-source systems, AI tooling, and security research — let’s build, test, and break things that matter**.
+**⭐ Open to collaborating on open-source infrastructure, agentic AI systems, developer tooling, security research, and high-impact engineering projects.**
 
-**"From Zero to Hero"** — Started with nothing but doubt. Survived blacklists, harsh rejections, and heavy pressure.  
-Now steadily stacking badges, merges, and blessings across the agentic space.
+**"From Zero to Hero"** — Started with curiosity, persistence, and a willingness to learn. Navigated rejections, failed attempts, difficult reviews, merge conflicts, and countless debugging sessions. Kept building anyway.
 
-**ArkhAngel Mode Activated** 🔥
+Today, that journey has grown into contributor badges, merged pull requests, developer program memberships, open-source projects, and meaningful contributions across the agentic AI ecosystem.
 
-**Always learning. Always building. Always rising. 🙏**
+⚔️ **ArkhAngel Mode Activated**
+
+**Building. Learning. Contributing. Improving.**
+
+🚀 **The mission remains the same: create value, solve hard problems, and leave every system better than I found it.**
+
