@@ -17,7 +17,6 @@ LifeJiggy@github:~$ run system-status
 ✔ Bug Bounty Mode: ENGAGED  
 ```
 <p>
-  <img src="https://img.shields.io/badge/GitHub_Developer_Program-Member-success?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/PR_Merges-20+-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contributions-620+-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_Source-Contributor-purple?style=for-the-badge" />
