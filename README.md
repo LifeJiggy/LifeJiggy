@@ -41,6 +41,16 @@ My work centers on agentic AI, security automation, and multi-model LLM integrat
 ![GitHub Streak](https://streak-stats.demolab.com?user=LifeJiggy&theme=tokyonight)
 ---
 
+## 🏆 Recognition & Developer Programs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Developer_Program-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/MiniMax-Developer_Program-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-Developer_Program-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+
 ## 🔬 Focus Areas
 
 • Bug Bounty Hunting (0-day, Critical, High, Medium vulnerability discovery & validation)  
