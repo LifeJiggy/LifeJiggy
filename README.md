@@ -232,6 +232,7 @@ Open to collaborating on:
 • Runtime reliability and platform hardening initiatives
 
 • OSS ecosystem improvements focused on maintainability, scalability and operational stability
+
 ---
 
 [![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeJiggy&theme=tokyo-night)](https://github.com/LifeJiggy)
@@ -265,7 +266,7 @@ Open to collaborating on:
   </a>
 </p>
 
-**Discord:** `arkhangellifejiggy`  
+**Discord:** `@arkhangellifejiggy`  
 
 **Email:** [Bloomtonjovish@gmail.com] (mailto:Bloomtonjovish@gmail.com)
 ---
