@@ -25,14 +25,12 @@ Current Mode: > BUILD > CONTRIBUTE > IMPROVE > REPEAT Status: ArkhAngel Mode Act
 
 ```
 
-```
 <p>
   <img src="https://img.shields.io/badge/PR_Merges-20+-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contributions-620+-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_Source-Contributor-purple?style=for-the-badge" />
 </p>
 
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
 
