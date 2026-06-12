@@ -63,11 +63,17 @@ My work centers on agentic AI, security automation, High-impact Open Source cont
 ## 🔬 Focus Areas
 
 • Bug Bounty Hunting (critical, high-impact vulnerability discovery, validation & responsible disclosure)
+
 • Web Application Security (OWASP Top 10, business logic flaws, API security, authorization weaknesses)
+
 • AI / LLM Security (prompt injection, jailbreaks, tool abuse, agent exploitation, unsafe execution paths)
+
 • Agentic AI Systems (multi-agent workflows, tool orchestration, memory systems, runtime reliability)
+
 • Open Source Engineering (feature development, bug fixes, security hardening, system enhancement)
+
 • Security Automation & Developer Tooling (CLI tools, scanning pipelines, validation frameworks, workflow automation)
+
 • Runtime Reliability & Infrastructure (process lifecycle management, recovery systems, observability, fault tolerance)
 ---
 
@@ -176,11 +182,17 @@ My work centers on agentic AI, security automation, High-impact Open Source cont
 🌱 Currently Working On
 
 • Agentic AI systems for autonomous vulnerability discovery and validation
+
 • AI-assisted security tooling (LLM + SAST/DAST hybrid workflows)
+
 • Runtime reliability improvements across open-source agent ecosystems
+
 • OSS contributions to OpenClaude, Hermes-Agent, KiloCode, KimiCode and related projects
+
 • Advanced bug bounty workflows (automated recon → analysis → validation pipelines)
+
 • LLM security research (prompt injection, agent exploitation, tool safety, memory trust boundaries)
+
 • Local + cloud AI infrastructure (Ollama, self-hosted models, API orchestration, multi-model systems)
 
 ---
@@ -190,10 +202,15 @@ My work centers on agentic AI, security automation, High-impact Open Source cont
 Open to collaborating on:
 
 • Security research (vulnerability discovery, exploit chains, defensive engineering)
+
 • AI / LLM security research (agent safety, prompt security, tool execution boundaries)
+
 • Agentic AI systems (multi-agent architectures, orchestration, reliability engineering)
+
 • Open-source developer tooling (CLI tooling, automation frameworks, infrastructure utilities)
+
 • Runtime reliability and platform hardening initiatives
+
 • OSS ecosystem improvements focused on maintainability, scalability and operational stability
 ---
 
