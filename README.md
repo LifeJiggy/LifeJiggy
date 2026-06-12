@@ -23,6 +23,8 @@ LifeJiggy@github:~$ run system-status
   <img src="https://img.shields.io/badge/Open_Source-Contributor-purple?style=for-the-badge" />
 </p>
 
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
 
 
@@ -50,6 +52,14 @@ My work centers on agentic AI, security automation, and multi-model LLM integrat
   <img src="https://img.shields.io/badge/GitHub-Developer_Program-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+
+## 🌟 Open Source Contributor Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenClaude-Contributor-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hermes--Agent-Contributor-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kilo_Code-Contributor-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kimi--Code-Contributor-purple?style=for-the-badge" />
+</p>
 
 ## 🔬 Focus Areas
 
