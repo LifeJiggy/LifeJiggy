@@ -165,8 +165,6 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 ## 🔧 What I Build
 
-## 🔧 What I Build
-
 • Agentic AI systems (multi-agent orchestration, tool execution, memory workflows, task routing)
 
 • AI-powered security tooling (LLM-assisted vulnerability discovery, validation and analysis)
@@ -274,9 +272,9 @@ Open to collaborating on:
   </a>
 </p>
 
-**Discord:** `@arkhangellifejiggy`  
+**Discord:** @arkhangellifejiggy
 
-**Email:** [Bloomtonjovish@gmail.com] (mailto:Bloomtonjovish@gmail.com)
+**Email:** [Bloomtonjovish@gmail.com] 
 ---
 
 **⭐ Open to collaborating on open-source infrastructure, agentic AI systems, developer tooling, security research, and high-impact engineering projects.**
