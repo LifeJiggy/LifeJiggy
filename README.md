@@ -274,7 +274,7 @@ Open to collaborating on:
 
 **Discord:** @arkhangellifejiggy
 
-**Email:** [Bloomtonjovish@gmail.com] 
+**Email:** Bloomtonjovish@gmail.com
 ---
 
 **⭐ Open to collaborating on open-source infrastructure, agentic AI systems, developer tooling, security research, and high-impact engineering projects.**
