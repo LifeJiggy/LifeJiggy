@@ -61,6 +61,10 @@ Current interests include AI security, autonomous agents, runtime reliability, d
   <img src="https://img.shields.io/badge/Google-Developer_Program-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/MiniMax-Developer_Program-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-Developer_Program-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta-Developer_Program-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snap-Developer_Program-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  <img src="https://img.shields.io/badge/HSBC-Developer_Program-DB0011?style=for-the-badge&logo=hsbc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Developer_Program-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 
