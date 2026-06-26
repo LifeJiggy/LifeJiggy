@@ -249,6 +249,16 @@ Current research areas:
 - AI Agent Security
 ---
 
+## Research Metrics
+
+- 50+ Vulnerabilities Submitted
+- Multiple Valid Reports
+- Hall of Fame Recognition
+- Multiple Duplicate Confirmations
+- High/Critical Findings Under Review
+- Reports Across Fortune 500 Companies
+
+
 ## 🌱 Currently Working On
 
 🌱 Currently Working On
