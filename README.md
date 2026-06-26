@@ -259,6 +259,48 @@ Current research areas:
 - Reports Across Fortune 500 Companies
 
 
+## Mission
+
+Build security research that improves products rather than simply finding bugs.
+
+Focus:
+
+• High Impact
+
+• High Signal
+
+• High Quality
+
+• Real Business Risk
+
+• Responsible Disclosure
+
+
+## Progress Timeline
+
+2025
+
+✓ First Bug Bounty Report
+
+✓ First Duplicate
+
+✓ First Open Source Contributions
+
+2026
+
+✓ First Valid Reports
+
+✓ Hall of Fame
+
+✓ Multiple High Severity Reports
+
+✓ WebSocket Research
+
+✓ GraphQL Research
+
+⏳ First Bounty
+
+
 ## 🌱 Currently Working On
 
 🌱 Currently Working On
