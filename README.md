@@ -213,6 +213,41 @@ Current interests include AI security, autonomous agents, runtime reliability, d
   Central system coordinating multiple agentic CLIs and LLM providers  
 
 ---
+## Research Philosophy
+
+I focus on finding vulnerabilities that demonstrate real security boundaries rather than theoretical weaknesses.
+
+My methodology emphasizes:
+
+- Reproducible findings
+- Clear business impact
+- High-quality proof of concept
+- Responsible disclosure
+- Root cause analysis
+- Practical remediation
+
+Every report is written to help engineers reproduce, understand, and fix the issue—not simply identify it.
+---
+
+---
+## Security Research
+
+Current research areas:
+
+- API Security
+- IDOR
+- Authorization Bypass
+- Access Control
+- GraphQL Security
+- WebSocket Security
+- Spring Boot Security
+- OAuth & Session Security
+- CSRF
+- Information Disclosure
+- Cloud Reconnaissance
+- Business Logic
+- AI Agent Security
+---
 
 ## 🌱 Currently Working On
 
