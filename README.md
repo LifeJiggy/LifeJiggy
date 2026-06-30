@@ -50,8 +50,8 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
 
 
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=LifeJiggy&theme=tokyonight)
+
 
 ---
 
@@ -113,7 +113,9 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 </p>
 
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -277,6 +279,7 @@ Focus:
 • Responsible Disclosure
 
 
+
 ## Progress Timeline
 
 2025
@@ -302,6 +305,7 @@ Focus:
 ⏳ First Bounty
 
 
+
 ## 🌱 Currently Working On
 
 🌱 Currently Working On
@@ -321,6 +325,7 @@ Focus:
 • Local + cloud AI infrastructure (Ollama, self-hosted models, API orchestration, multi-model systems)
 
 ---
+
 
 ## 🤝 Collaboration
 
