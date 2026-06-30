@@ -21,7 +21,7 @@ LifeJiggy@github:~$ run system-status
 
 Status: BUILDING THE FUTURE 🚀
 
-Current Mode: > BUILD > CONTRIBUTE > IMPROVE > REPEAT Status: ArkhAngel Mode Activated 🔥
+Current Mode: > BUILD > CONTRIBUTE > HUNT > IMPROVE > REPEAT Status: ArkhAngel Mode Activated 🔥
 ```
 
 <p>
