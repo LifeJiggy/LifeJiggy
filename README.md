@@ -302,6 +302,8 @@ Focus:
 
 ✓ GraphQL Research
 
+First Triaged 
+
 ⏳ First Bounty
 
 
