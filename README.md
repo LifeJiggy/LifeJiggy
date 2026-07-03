@@ -304,6 +304,8 @@ Focus:
 
 First Triaged 
 
+Diamond player from chess ♟️ 
+
 ⏳ First Bounty
 
 
