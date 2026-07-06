@@ -50,6 +50,7 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
 
 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=LifeJiggy&theme=tokyonight)
 
 
@@ -77,12 +78,14 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 
 ## 🌟 Open Source Contributor Badges
+
 <p align="center">
   <img src="https://img.shields.io/badge/OpenClaude-Contributor-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hermes--Agent-Contributor-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kilo_Code-Contributor-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kimi--Code-Contributor-purple?style=for-the-badge" />
 </p>
+
 
 ## 🔬 Focus Areas
 
@@ -105,6 +108,7 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 ## 🛠 Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
