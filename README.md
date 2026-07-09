@@ -367,7 +367,7 @@ Open to collaborating on:
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="https://www.bugcrowd.com/ArkhAngelLifeJiggy">
+  <a href="https://www.bugcrowd.com/h/ArkhAngelLifeJiggy">
     <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge" />
   </a>
 
