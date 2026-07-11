@@ -24,6 +24,7 @@ Status: BUILDING THE FUTURE 🚀
 Current Mode: > BUILD > CONTRIBUTE > HUNT > IMPROVE > REPEAT Status: ArkhAngel Mode Activated 🔥
 ```
 
+
 <p>
   <img src="https://img.shields.io/badge/PR_Merges-20+-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contributions-620+-orange?style=for-the-badge" />
@@ -47,8 +48,8 @@ I actively contribute to leading agentic AI and developer ecosystems, delivering
 Current interests include AI security, autonomous agents, runtime reliability, developer tooling, security automation, and scalable agentic infrastructure.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LifeJiggy&theme=tokyonight)
@@ -181,6 +182,7 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 </p>
 ---
 
+
 ## 🔧 What I Build
 
 • Agentic AI systems (multi-agent orchestration, tool execution, memory workflows, task routing)
@@ -220,6 +222,7 @@ Current interests include AI security, autonomous agents, runtime reliability, d
   Central system coordinating multiple agentic CLIs and LLM providers  
 
 ---
+
 ## Research Philosophy
 
 I focus on finding vulnerabilities that demonstrate real security boundaries rather than theoretical weaknesses.
@@ -234,9 +237,9 @@ My methodology emphasizes:
 - Practical remediation
 
 Every report is written to help engineers reproduce, understand, and fix the issue—not simply identify it.
----
 
 ---
+
 ## Security Research
 
 Current research areas:
@@ -254,6 +257,7 @@ Current research areas:
 - Cloud Reconnaissance
 - Business Logic
 - AI Agent Security
+
 ---
 
 ## Research Metrics
@@ -353,7 +357,9 @@ Open to collaborating on:
 
 ---
 
+
 [![Stephen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LifeJiggy&theme=tokyo-night)](https://github.com/LifeJiggy)
+
 
 
 ## 📫 Connect
@@ -384,9 +390,11 @@ Open to collaborating on:
   </a>
 </p>
 
+
 **Discord:** @arkhangellifejiggy
 
 **Email:** Bloomtonjovish@gmail.com
+
 ---
 
 **⭐ Open to collaborating on open-source infrastructure, agentic AI systems, developer tooling, security research, and high-impact engineering projects.**
@@ -398,7 +406,9 @@ Today, that journey has grown into contributor badges, merged pull requests, dev
 
 ⚔️ **ArkhAngel Mode Activated**
 
+
 **Building.  Hacking. Hunting. Learning. Contributing. Improving.**
+
 
 🚀 **The mission remains the same: create value, solve hard problems, and leave every system better than I found it.**
 
