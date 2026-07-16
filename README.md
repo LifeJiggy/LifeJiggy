@@ -48,7 +48,7 @@ I actively contribute to leading agentic AI and developer ecosystems, delivering
 Current interests include AI security, autonomous agents, runtime reliability, developer tooling, security automation, and scalable agentic infrastructure.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeJiggy&show_icons=true&theme=tokyonight)
+<img src="https://github-stats-extended.vercel.app/api?username=Lifejiggy-0&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LifeJiggy&theme=tokyonight)
 
