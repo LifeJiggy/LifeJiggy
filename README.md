@@ -115,8 +115,7 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 </p>
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight)
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 
 ---
