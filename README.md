@@ -50,7 +50,10 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 <img src="https://github-stats-extended.vercel.app/api?username=Lifejiggy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=LifeJiggy&theme=tokyonight)
+
 
 ---
 
