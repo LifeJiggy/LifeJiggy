@@ -396,15 +396,17 @@ Open to collaborating on:
 
 **⭐ Open to collaborating on open-source infrastructure, agentic AI systems, developer tooling, security research, and high-impact engineering projects.**
 
-**"From Zero to Hero"** — Started with curiosity, persistence, and a willingness to learn. Navigated rejections, failed attempts, difficult reviews, merge conflicts, and countless debugging sessions. Kept building anyway.
+**"From Zero to Hero"** — Started with curiosity, persistence, and a willingness to learn. Navigated rejections, failed attempts, difficult reviews, merge conflicts, countless debugging sessions, and platform restrictions. Kept building anyway.
 
-Today, that journey has grown into contributor badges, merged pull requests, developer program memberships, open-source projects, and meaningful contributions across the agentic AI ecosystem.
+Today, that journey has grown into contributor badges across multiple agentic projects, merged pull requests, developer program memberships (GitHub, Google, Nvidia, Meta, Minimax), open-source tools like Rootkit, and meaningful security research contributions. 
+
+Currently focused on high-impact bug bounty hunting, agentic workflow systems, and building the next generation of security tooling.
 
 
 ⚔️ **ArkhAngel Mode Activated**
 
 
-**Building.  Hacking. Hunting. Learning. Contributing. Improving.**
+**Building. Hacking. Hunting. Learning. Contributing. Improving.**
 
 
 🚀 **The mission remains the same: create value, solve hard problems, and leave every system better than I found it.**
