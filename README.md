@@ -182,27 +182,59 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 ## 🔧 What I Build
 
-• Agentic AI systems (multi-agent orchestration, tool execution, memory workflows, task routing)
+```mermaid
+flowchart TB
 
-• AI-powered security tooling (LLM-assisted vulnerability discovery, validation and analysis)
+    A[🧠 Agentic AI Systems]
 
-• Security-focused CLI tools (automation, reconnaissance, workflow acceleration, operational tooling)
+    A --> B[Multi-Agent Orchestration]
+    A --> C[Memory Workflows]
+    A --> D[Task Routing]
+    A --> E[Tool Execution]
 
-• Open-source infrastructure improvements (runtime reliability, platform hardening, developer experience)
+    B --> F[LLM Developer Tooling]
+    B --> G[AI Security Tooling]
+    B --> H[Bug Bounty Automation]
 
-• LLM-integrated developer tooling (code analysis, generation, refactoring, workflow automation)
+    F --> F1[Code Analysis]
+    F --> F2[Code Generation]
+    F --> F3[Refactoring]
+    F --> F4[Workflow Automation]
 
-• Bug bounty automation pipelines (recon → analysis → validation → reporting)
+    G --> G1[Vulnerability Discovery]
+    G --> G2[Validation]
+    G --> G3[Security Analysis]
 
-• Autonomous workflows powered by markdown-driven execution and agent collaboration
+    H --> H1[Recon]
+    H --> H2[Analysis]
+    H --> H3[Validation]
+    H --> H4[Reporting]
 
-• AI-assisted security research frameworks (prompt security, agent safety, model behavior analysis)
+    A --> I[Security CLI Tools]
+    I --> I1[Automation]
+    I --> I2[Reconnaissance]
+    I --> I3[Operational Tooling]
 
-• Runtime observability and reliability systems (recovery, lifecycle management, fault tolerance)
+    A --> J[Open Source Infrastructure]
+    J --> J1[Runtime Reliability]
+    J --> J2[Platform Hardening]
+    J --> J3[Developer Experience]
 
-• Web security and reconnaissance utilities (asset discovery, analysis and validation)
-  
----
+    A --> K[Runtime Observability]
+    K --> K1[Recovery]
+    K --> K2[Lifecycle Management]
+    K --> K3[Fault Tolerance]
+
+    A --> L[AI Security Research]
+    L --> L1[Prompt Security]
+    L --> L2[Agent Safety]
+    L --> L3[Model Behavior Analysis]
+
+    A --> M[Web Security]
+    M --> M1[Asset Discovery]
+    M --> M2[Security Analysis]
+    M --> M3[Validation]
+```
 
 ## 🚀 Core Projects
 
