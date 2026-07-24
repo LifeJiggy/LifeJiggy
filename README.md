@@ -181,6 +181,8 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 
 ## 🔧 What I Build
+
+```mermaid
 flowchart TD
 
     A["🚀 Engineering Platforms"]
@@ -258,6 +260,7 @@ flowchart TD
     H --> H3["Model Behavior Analysis"]
     H --> H4["AI-Assisted Security"]
     H --> H5["Emerging Threat Research"]
+```
 
 
 ## 🚀 Core Projects
