@@ -182,9 +182,6 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 ## 🔧 What I Build
 
-
-## 🔧 What I Build
-
 • Agentic AI systems (multi-agent orchestration, tool execution, memory workflows, task routing)
 
 • AI-powered security tooling (LLM-assisted vulnerability discovery, validation and analysis)
@@ -204,7 +201,7 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 • Runtime observability and reliability systems (recovery, lifecycle management, fault tolerance)
 
 • Web security and reconnaissance utilities (asset discovery, analysis and validation)
-  
+
 
 ## 🚀 Core Projects
 
