@@ -185,56 +185,77 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 ```mermaid
 flowchart TB
 
-    A[🧠 Agentic AI Systems]
+    A["🚀 What I Build"]
 
-    A --> B[Multi-Agent Orchestration]
-    A --> C[Memory Workflows]
-    A --> D[Task Routing]
-    A --> E[Tool Execution]
+    %% Core Platforms
+    A --> B["🤖 Agentic AI Systems"]
+    A --> C["🛡️ AI-Powered Security Tooling"]
+    A --> D["💻 Developer Tooling & CLIs"]
+    A --> E["🌐 Open Source Infrastructure"]
+    A --> F["🔍 Bug Bounty Automation"]
+    A --> G["⚙️ Runtime & Platform Systems"]
+    A --> H["🔬 AI Security Research"]
+    A --> I["🌍 Web Security & Reconnaissance"]
 
-    B --> F[LLM Developer Tooling]
-    B --> G[AI Security Tooling]
-    B --> H[Bug Bounty Automation]
+    %% Agentic AI
+    B --> B1["Multi-Agent Orchestration"]
+    B --> B2["Task Routing"]
+    B --> B3["Memory & Context Management"]
+    B --> B4["Tool Execution"]
+    B --> B5["Workflow Automation"]
+    B --> B6["Markdown-Driven Systems"]
 
-    F --> F1[Code Analysis]
-    F --> F2[Code Generation]
-    F --> F3[Refactoring]
-    F --> F4[Workflow Automation]
+    %% Security Tooling
+    C --> C1["Vulnerability Discovery"]
+    C --> C2["Security Analysis"]
+    C --> C3["Validation & Verification"]
+    C --> C4["Automation Pipelines"]
+    C --> C5["Reporting"]
 
-    G --> G1[Vulnerability Discovery]
-    G --> G2[Validation]
-    G --> G3[Security Analysis]
+    %% Developer Tooling
+    D --> D1["CLI Applications"]
+    D --> D2["Code Analysis"]
+    D --> D3["LLM Integration"]
+    D --> D4["Code Generation"]
+    D --> D5["Refactoring"]
+    D --> D6["Developer Experience"]
 
-    H --> H1[Recon]
-    H --> H2[Analysis]
-    H --> H3[Validation]
-    H --> H4[Reporting]
+    %% Open Source
+    E --> E1["OSS Contributions"]
+    E --> E2["Framework Development"]
+    E --> E3["Runtime Improvements"]
+    E --> E4["Platform Hardening"]
+    E --> E5["Reusable Modules"]
 
-    A --> I[Security CLI Tools]
-    I --> I1[Automation]
-    I --> I2[Reconnaissance]
-    I --> I3[Operational Tooling]
+    %% Bug Bounty
+    F --> F1["Reconnaissance"]
+    F --> F2["Asset Discovery"]
+    F --> F3["Attack Surface Mapping"]
+    F --> F4["Finding Validation"]
+    F --> F5["Report Automation"]
 
-    A --> J[Open Source Infrastructure]
-    J --> J1[Runtime Reliability]
-    J --> J2[Platform Hardening]
-    J --> J3[Developer Experience]
+    %% Runtime
+    G --> G1["Observability"]
+    G --> G2["Fault Tolerance"]
+    G --> G3["Recovery"]
+    G --> G4["Lifecycle Management"]
+    G --> G5["Reliability Engineering"]
 
-    A --> K[Runtime Observability]
-    K --> K1[Recovery]
-    K --> K2[Lifecycle Management]
-    K --> K3[Fault Tolerance]
+    %% AI Research
+    H --> H1["Prompt Security"]
+    H --> H2["Agent Safety"]
+    H --> H3["Model Behavior"]
+    H --> H4["Evaluation Frameworks"]
+    H --> H5["AI Security Testing"]
 
-    A --> L[AI Security Research]
-    L --> L1[Prompt Security]
-    L --> L2[Agent Safety]
-    L --> L3[Model Behavior Analysis]
-
-    A --> M[Web Security]
-    M --> M1[Asset Discovery]
-    M --> M2[Security Analysis]
-    M --> M3[Validation]
+    %% Web Security
+    I --> I1["Web Applications"]
+    I --> I2["API Security"]
+    I --> I3["JavaScript Analysis"]
+    I --> I4["Reconnaissance Utilities"]
+    I --> I5["Security Validation"]
 ```
+
 
 ## 🚀 Core Projects
 
