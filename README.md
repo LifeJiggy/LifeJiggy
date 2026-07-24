@@ -182,78 +182,86 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 ## 🔧 What I Build
 
+## 🔧 What I Build
+
 ```mermaid
-flowchart TB
+flowchart TD
 
-    A["🚀 What I Build"]
+    A["🚀 Engineering Platforms"]
 
-    %% Core Platforms
-    A --> B["🤖 Agentic AI Systems"]
-    A --> C["🛡️ AI-Powered Security Tooling"]
-    A --> D["💻 Developer Tooling & CLIs"]
-    A --> E["🌐 Open Source Infrastructure"]
-    A --> F["🔍 Bug Bounty Automation"]
-    A --> G["⚙️ Runtime & Platform Systems"]
-    A --> H["🔬 AI Security Research"]
-    A --> I["🌍 Web Security & Reconnaissance"]
-
+    %% =========================
     %% Agentic AI
+    %% =========================
+    A --> B["🤖 Agentic AI Systems"]
     B --> B1["Multi-Agent Orchestration"]
-    B --> B2["Task Routing"]
-    B --> B3["Memory & Context Management"]
-    B --> B4["Tool Execution"]
-    B --> B5["Workflow Automation"]
-    B --> B6["Markdown-Driven Systems"]
+    B --> B2["Memory & Context Management"]
+    B --> B3["Tool Calling & Execution"]
+    B --> B4["Task Planning & Routing"]
+    B --> B5["Autonomous Workflows"]
+    B --> B6["Markdown-Driven Execution"]
 
-    %% Security Tooling
-    C --> C1["Vulnerability Discovery"]
-    C --> C2["Security Analysis"]
-    C --> C3["Validation & Verification"]
-    C --> C4["Automation Pipelines"]
-    C --> C5["Reporting"]
+    %% =========================
+    %% AI & LLM
+    %% =========================
+    A --> C["🧠 AI / LLM Integration"]
+    C --> C1["Multi-Provider Integration"]
+    C --> C2["Inference APIs"]
+    C --> C3["Model Routing"]
+    C --> C4["Prompt Engineering"]
+    C --> C5["Workflow Automation"]
+    C --> C6["Local & Cloud Models"]
 
+    %% =========================
+    %% Security
+    %% =========================
+    A --> D["🛡️ Security Engineering"]
+    D --> D1["Bug Bounty Automation"]
+    D --> D2["Vulnerability Discovery"]
+    D --> D3["Reconnaissance"]
+    D --> D4["Web Security"]
+    D --> D5["Security Analysis"]
+    D --> D6["Exploit Validation"]
+
+    %% =========================
     %% Developer Tooling
-    D --> D1["CLI Applications"]
-    D --> D2["Code Analysis"]
-    D --> D3["LLM Integration"]
-    D --> D4["Code Generation"]
-    D --> D5["Refactoring"]
-    D --> D6["Developer Experience"]
+    %% =========================
+    A --> E["⚙️ Developer Tooling"]
+    E --> E1["CLI Applications"]
+    E --> E2["Developer Automation"]
+    E --> E3["Code Analysis"]
+    E --> E4["Code Generation"]
+    E --> E5["Refactoring"]
+    E --> E6["Workflow Acceleration"]
 
+    %% =========================
     %% Open Source
-    E --> E1["OSS Contributions"]
-    E --> E2["Framework Development"]
-    E --> E3["Runtime Improvements"]
-    E --> E4["Platform Hardening"]
-    E --> E5["Reusable Modules"]
+    %% =========================
+    A --> F["🌍 Open Source"]
+    F --> F1["Developer Experience"]
+    F --> F2["Infrastructure"]
+    F --> F3["Platform Reliability"]
+    F --> F4["Runtime Improvements"]
+    F --> F5["Community Contributions"]
 
-    %% Bug Bounty
-    F --> F1["Reconnaissance"]
-    F --> F2["Asset Discovery"]
-    F --> F3["Attack Surface Mapping"]
-    F --> F4["Finding Validation"]
-    F --> F5["Report Automation"]
-
+    %% =========================
     %% Runtime
+    %% =========================
+    A --> G["🔄 Runtime Systems"]
     G --> G1["Observability"]
-    G --> G2["Fault Tolerance"]
-    G --> G3["Recovery"]
-    G --> G4["Lifecycle Management"]
-    G --> G5["Reliability Engineering"]
+    G --> G2["Recovery"]
+    G --> G3["Lifecycle Management"]
+    G --> G4["Fault Tolerance"]
+    G --> G5["Performance Optimization"]
 
-    %% AI Research
+    %% =========================
+    %% Research
+    %% =========================
+    A --> H["🔬 AI & Security Research"]
     H --> H1["Prompt Security"]
     H --> H2["Agent Safety"]
-    H --> H3["Model Behavior"]
-    H --> H4["Evaluation Frameworks"]
-    H --> H5["AI Security Testing"]
-
-    %% Web Security
-    I --> I1["Web Applications"]
-    I --> I2["API Security"]
-    I --> I3["JavaScript Analysis"]
-    I --> I4["Reconnaissance Utilities"]
-    I --> I5["Security Validation"]
+    H --> H3["Model Behavior Analysis"]
+    H --> H4["AI-Assisted Security"]
+    H --> H5["Emerging Threat Research"]
 ```
 
 
