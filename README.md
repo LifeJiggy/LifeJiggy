@@ -182,86 +182,29 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 ## 🔧 What I Build
 
-```mermaid
-flowchart TD
 
-    A["🚀 Engineering Platforms"]
+## 🔧 What I Build
 
-    %% =========================
-    %% Agentic AI
-    %% =========================
-    A --> B["🤖 Agentic AI Systems"]
-    B --> B1["Multi-Agent Orchestration"]
-    B --> B2["Memory & Context Management"]
-    B --> B3["Tool Calling & Execution"]
-    B --> B4["Task Planning & Routing"]
-    B --> B5["Autonomous Workflows"]
-    B --> B6["Markdown-Driven Execution"]
+• Agentic AI systems (multi-agent orchestration, tool execution, memory workflows, task routing)
 
-    %% =========================
-    %% AI & LLM
-    %% =========================
-    A --> C["🧠 AI / LLM Integration"]
-    C --> C1["Multi-Provider Integration"]
-    C --> C2["Inference APIs"]
-    C --> C3["Model Routing"]
-    C --> C4["Prompt Engineering"]
-    C --> C5["Workflow Automation"]
-    C --> C6["Local & Cloud Models"]
+• AI-powered security tooling (LLM-assisted vulnerability discovery, validation and analysis)
 
-    %% =========================
-    %% Security
-    %% =========================
-    A --> D["🛡️ Security Engineering"]
-    D --> D1["Bug Bounty Automation"]
-    D --> D2["Vulnerability Discovery"]
-    D --> D3["Reconnaissance"]
-    D --> D4["Web Security"]
-    D --> D5["Security Analysis"]
-    D --> D6["Exploit Validation"]
+• Security-focused CLI tools (automation, reconnaissance, workflow acceleration, operational tooling)
 
-    %% =========================
-    %% Developer Tooling
-    %% =========================
-    A --> E["⚙️ Developer Tooling"]
-    E --> E1["CLI Applications"]
-    E --> E2["Developer Automation"]
-    E --> E3["Code Analysis"]
-    E --> E4["Code Generation"]
-    E --> E5["Refactoring"]
-    E --> E6["Workflow Acceleration"]
+• Open-source infrastructure improvements (runtime reliability, platform hardening, developer experience)
 
-    %% =========================
-    %% Open Source
-    %% =========================
-    A --> F["🌍 Open Source"]
-    F --> F1["Developer Experience"]
-    F --> F2["Infrastructure"]
-    F --> F3["Platform Reliability"]
-    F --> F4["Runtime Improvements"]
-    F --> F5["Community Contributions"]
+• LLM-integrated developer tooling (code analysis, generation, refactoring, workflow automation)
 
-    %% =========================
-    %% Runtime
-    %% =========================
-    A --> G["🔄 Runtime Systems"]
-    G --> G1["Observability"]
-    G --> G2["Recovery"]
-    G --> G3["Lifecycle Management"]
-    G --> G4["Fault Tolerance"]
-    G --> G5["Performance Optimization"]
+• Bug bounty automation pipelines (recon → analysis → validation → reporting)
 
-    %% =========================
-    %% Research
-    %% =========================
-    A --> H["🔬 AI & Security Research"]
-    H --> H1["Prompt Security"]
-    H --> H2["Agent Safety"]
-    H --> H3["Model Behavior Analysis"]
-    H --> H4["AI-Assisted Security"]
-    H --> H5["Emerging Threat Research"]
-```
+• Autonomous workflows powered by markdown-driven execution and agent collaboration
 
+• AI-assisted security research frameworks (prompt security, agent safety, model behavior analysis)
+
+• Runtime observability and reliability systems (recovery, lifecycle management, fault tolerance)
+
+• Web security and reconnaissance utilities (asset discovery, analysis and validation)
+  
 
 ## 🚀 Core Projects
 
