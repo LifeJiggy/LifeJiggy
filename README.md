@@ -444,109 +444,19 @@ timeline
 
 ## 🌱 Currently Working On
 
-## 🌱 Currently Working On
+• Agentic AI systems for autonomous vulnerability discovery and validation
 
-```mermaid
-flowchart TD
+• AI-assisted security tooling (LLM + SAST/DAST hybrid workflows)
 
-    A["🌱 Current Engineering Roadmap"]
+• Runtime reliability improvements across open-source agent ecosystems
 
-    %% =====================================
-    %% Agentic AI
-    %% =====================================
+• OSS contributions to OpenClaude, Hermes-Agent, KiloCode, KimiCode and related projects
 
-    A --> B["🤖 Agentic AI Systems"]
-    B --> B1["Autonomous Vulnerability Discovery"]
-    B --> B2["Automated Validation"]
-    B --> B3["Multi-Agent Collaboration"]
-    B --> B4["Memory-Aware Agents"]
-    B --> B5["Tool Execution"]
-    B --> B6["Autonomous Decision Making"]
+• Advanced bug bounty workflows (automated recon → analysis → validation pipelines)
 
-    %% =====================================
-    %% AI Security
-    %% =====================================
+• LLM security research (prompt injection, agent exploitation, tool safety, memory trust boundaries)
 
-    A --> C["🛡️ AI-Assisted Security Tooling"]
-    C --> C1["LLM-Assisted Analysis"]
-    C --> C2["SAST Integration"]
-    C --> C3["DAST Integration"]
-    C --> C4["Hybrid Security Pipelines"]
-    C --> C5["Security Automation"]
-    C --> C6["Vulnerability Intelligence"]
-
-    %% =====================================
-    %% Runtime
-    %% =====================================
-
-    A --> D["⚙️ Runtime Engineering"]
-    D --> D1["Runtime Reliability"]
-    D --> D2["Lifecycle Management"]
-    D --> D3["Fault Recovery"]
-    D --> D4["Performance Optimisation"]
-    D --> D5["Observability"]
-    D --> D6["Cross-Agent Coordination"]
-
-    %% =====================================
-    %% Open Source
-    %% =====================================
-
-    A --> E["🌍 Open Source Contributions"]
-    E --> E1["OpenClaude"]
-    E --> E2["Hermes-Agent"]
-    E --> E3["KiloCode"]
-    E --> E4["KimiCode"]
-    E --> E5["Community Tooling"]
-    E --> E6["Platform Improvements"]
-
-    %% =====================================
-    %% Bug Bounty
-    %% =====================================
-
-    A --> F["🎯 Bug Bounty Automation"]
-    F --> F1["Reconnaissance"]
-    F --> F2["Attack Surface Mapping"]
-    F --> F3["Automated Analysis"]
-    F --> F4["Validation"]
-    F --> F5["Report Generation"]
-    F --> F6["Workflow Automation"]
-
-    %% =====================================
-    %% AI Security Research
-    %% =====================================
-
-    A --> G["🔬 LLM Security Research"]
-    G --> G1["Prompt Injection"]
-    G --> G2["Agent Exploitation"]
-    G --> G3["Tool Safety"]
-    G --> G4["Memory Trust Boundaries"]
-    G --> G5["Model Behaviour"]
-    G --> G6["AI Agent Security"]
-
-    %% =====================================
-    %% AI Infrastructure
-    %% =====================================
-
-    A --> H["🧠 AI Infrastructure"]
-    H --> H1["Ollama"]
-    H --> H2["Self-Hosted Models"]
-    H --> H3["Cloud APIs"]
-    H --> H4["Multi-Provider Routing"]
-    H --> H5["Inference Orchestration"]
-    H --> H6["Hybrid AI Systems"]
-
-    %% =====================================
-    %% Vision
-    %% =====================================
-
-    B --> I["🚀 Next-Generation Security & AI Ecosystem"]
-    C --> I
-    D --> I
-    E --> I
-    F --> I
-    G --> I
-    H --> I
-```
+• Local + cloud AI infrastructure (Ollama, self-hosted models, API orchestration, multi-model systems)
 
 
 
