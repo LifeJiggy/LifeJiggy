@@ -347,23 +347,30 @@ Current research areas:
 - High/Critical Findings Under Review
 - Reports Across Fortune 500 Companies
 
+## 🎯 Mission
 
-## Mission
+```mermaid
+mindmap
+  root((🎯 Mission))
 
-Build security research that improves products rather than simply finding bugs.
+    Build Security Research
+      Improve Products
+      Protect Users
+      Strengthen Security
 
-Focus:
+    Principles
+      High Impact
+      High Signal
+      High Quality
+      Real Business Risk
+      Responsible Disclosure
 
-• High Impact
-
-• High Signal
-
-• High Quality
-
-• Real Business Risk
-
-• Responsible Disclosure
-
+    Outcomes
+      Secure Systems
+      Actionable Findings
+      Open Source Innovation
+      Continuous Learning
+```
 
 
 ## Progress Timeline
