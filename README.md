@@ -209,7 +209,7 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 ### 🤖 Agentic AI Platforms
 
-- **[Ghost 👻](https://github.com/LifeJiggy/Ghost)** *(Python)*
+- **[Ghost 👻](https://github.com/LifeJiggy/Ghost-AGI)** *(Python)*
   - AI-powered vulnerability scanner with agentic workflows, multi-model reasoning, and automated security reporting.
 
 - **[Grok-Code CLI](https://github.com/LifeJiggy/Grok-Code-CLI)** *(TypeScript)*
@@ -222,7 +222,7 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 ### 🛡️ Security Research & Automation
 
-- **[JSAnalyzer](https://github.com/LifeJiggy/JSAnalyzer)** *(JavaScript)*
+- **[Dast-Engine](https://github.com/LifeJiggy/dast-engine** *(JavaScript)*
   - JavaScript intelligence engine for web application analysis and client-side security research.
 
 - **[Rootkit](https://github.com/LifeJiggy/Rootkit)**
@@ -241,7 +241,7 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 ### ⚙️ Developer Tooling
 
-- **[Markdown as Modules (MAM)](https://github.com/LifeJiggy/markdown-as-modules)**
+- **[Markdown as Modules (MAM)](https://github.com/LifeJiggy/MAM)**
   - Markdown-first modular architecture for agentic systems, reusable workflows, and AI execution.
 
 - **[PR-Guide](https://github.com/LifeJiggy/PR-Guide)**
