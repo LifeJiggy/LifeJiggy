@@ -25,6 +25,74 @@ Current Mode: > BUILD > CONTRIBUTE > HUNT > IMPROVE > REPEAT Status: ArkhAngel M
 ```
 
 
+## 🏛️ Core Operating Pillars
+
+```mermaid
+flowchart TD
+
+    A["⚡ ArkhAngel Mode"]
+
+    %% ==========================
+    %% BUILD
+    %% ==========================
+    A --> B["🏗️ BUILD"]
+    B --> B1["Open Source Projects"]
+    B --> B2["Agentic AI Systems"]
+    B --> B3["Security Tooling"]
+    B --> B4["LLM Integration"]
+    B --> B5["Developer Infrastructure"]
+
+    %% ==========================
+    %% CONTRIBUTE
+    %% ==========================
+    A --> C["🌍 CONTRIBUTE"]
+    C --> C1["Open Source PRs"]
+    C --> C2["Community Collaboration"]
+    C --> C3["Runtime Improvements"]
+    C --> C4["Documentation"]
+    C --> C5["Knowledge Sharing"]
+
+    %% ==========================
+    %% HUNT
+    %% ==========================
+    A --> D["🎯 HUNT"]
+    D --> D1["Bug Bounty"]
+    D --> D2["Web Security"]
+    D --> D3["AI Security"]
+    D --> D4["Reconnaissance"]
+    D --> D5["Research"]
+
+    %% ==========================
+    %% IMPROVE
+    %% ==========================
+    A --> E["📈 IMPROVE"]
+    E --> E1["Automation"]
+    E --> E2["Reliability"]
+    E --> E3["Performance"]
+    E --> E4["Developer Experience"]
+    E --> E5["Continuous Learning"]
+
+    %% ==========================
+    %% REPEAT
+    %% ==========================
+    A --> F["🔁 REPEAT"]
+    F --> F1["Iterate"]
+    F --> F2["Scale"]
+    F --> F3["Refine"]
+    F --> F4["Ship"]
+    F --> F5["Evolve"]
+
+    %% ==========================
+    %% END GOAL
+    %% ==========================
+    B --> G["🚀 Build the Next Generation of Open Source AI & Security Systems"]
+    C --> G
+    D --> G
+    E --> G
+    F --> G
+```
+
+
 <p>
   <img src="https://img.shields.io/badge/PR_Merges-20+-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contributions-620+-orange?style=for-the-badge" />
