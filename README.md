@@ -301,20 +301,40 @@ Building an ecosystem of open-source tools focused on:
 
 ---
 
-## Research Philosophy
+## 📖 Research Philosophy
 
-I focus on finding vulnerabilities that demonstrate real security boundaries rather than theoretical weaknesses.
+```mermaid
+flowchart TD
 
-My methodology emphasizes:
+    A["📖 Research Philosophy"]
 
-- Reproducible findings
-- Clear business impact
-- High-quality proof of concept
-- Responsible disclosure
-- Root cause analysis
-- Practical remediation
+    A --> B["Find Real Security Boundaries"]
+    B --> C["Not Theoretical Weaknesses"]
 
-Every report is written to help engineers reproduce, understand, and fix the issue—not simply identify it.
+    C --> D["🔬 Research Methodology"]
+
+    D --> D1["Reproducible Findings"]
+    D --> D2["Clear Business Impact"]
+    D --> D3["High-Quality Proof of Concept"]
+    D --> D4["Responsible Disclosure"]
+    D --> D5["Root Cause Analysis"]
+    D --> D6["Practical Remediation"]
+
+    D1 --> E["📄 Engineering-Focused Reports"]
+    D2 --> E
+    D3 --> E
+    D4 --> E
+    D5 --> E
+    D6 --> E
+
+    E --> F["Reproduce"]
+    E --> G["Understand"]
+    E --> H["Fix"]
+
+    F --> I["✅ Stronger Products & Better Security"]
+    G --> I
+    H --> I
+```
 
 ---
 
@@ -351,14 +371,30 @@ mindmap
 
 ---
 
-## Research Metrics
+## 📊 Research Metrics
 
-- 50+ Vulnerabilities Submitted
-- Multiple Valid Reports
-- Hall of Fame Recognition
-- Multiple Duplicate Confirmations
-- High/Critical Findings Under Review
-- Reports Across Fortune 500 Companies
+```mermaid
+flowchart TD
+
+    A["📊 Research Metrics"]
+
+    A --> B["📨 50+<br/>Vulnerability Reports"]
+    A --> C["✅ Multiple<br/>Valid Reports"]
+    A --> D["🏅 Hall of Fame<br/>Recognition"]
+
+    A --> E["🔁 Multiple<br/>Duplicate Confirmations"]
+    A --> F["🚨 High / Critical<br/>Under Review"]
+    A --> G["🏢 Fortune 500<br/>Research Targets"]
+
+    B --> H["🎯 Research Impact"]
+    C --> H
+    D --> H
+    E --> H
+    F --> H
+    G --> H
+
+```
+---
 
 ## 🎯 Mission
 
