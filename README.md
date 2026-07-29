@@ -424,26 +424,22 @@ mindmap
 ## 📈 Progress Timeline
 
 ```mermaid
-flowchart LR
+timeline
+    title Security Research & Open Source Journey
 
-    A["2025"] --> B["🚀 First Bug Bounty Report"]
-    B --> C["🔁 First Duplicate"]
-    C --> D["🌍 First Open Source Contribution"]
+    2025 : 🚀 First Bug Bounty Report
+         : 🔁 First Duplicate
+         : 🌍 First Open Source Contribution
 
-    D --> E["2026"]
-
-    E --> F["✅ First Valid Report"]
-    F --> G["🎯 First Triaged Report"]
-    G --> H["🏅 Hall of Fame Recognition"]
-    H --> I["🚨 Multiple High Severity Reports"]
-    I --> J["🌐 WebSocket Security Research"]
-    J --> K["📊 GraphQL Security Research"]
-    K --> L["♟️ Diamond Chess Player"]
-    L --> M["💰 First Bounty (Loading...)"]
-
-    M --> N["🚀 Continuing the Journey"]
+    2026 : ✅ First Valid Report
+         : 🎯 First Triaged Report
+         : 🏅 Hall of Fame Recognition
+         : 🚨 Multiple High Severity Reports
+         : 🌐 WebSocket Security Research
+         : 📊 GraphQL Security Research
+         : ♟️ Diamond Chess Player
+         : 💰 First Bounty (In Progress)
 ```
-
 
 
 ## 🌱 Currently Working On
