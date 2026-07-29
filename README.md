@@ -218,6 +218,33 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 - **[Arkhangel](https://github.com/LifeJiggy/Arkhangel)** *(Python)*
   - Agent orchestration platform coordinating autonomous agents, memory, tools, and multi-model reasoning.
 
+- **[Prometheus-Loop](https://github.com/LifeJiggy/Prometheus-Loop)**
+  -  Autonomous execution loop for long-running AI agents, orchestration, and workflow automation. |
+
+- **[subagent-loop](https://github.com/LifeJiggy/subagent-loop)**
+ -Reusable sub-agent runtime enabling collaborative and modular AI agent execution. |
+
+---
+
+### 🧠 AI Engineering & Knowledge Systems
+
+
+- **[MAM (Markdown as Modules)](https://github.com/LifeJiggy/MAM)**
+  - Markdown-first modular architecture for AI systems, reusable workflows, and executable documentation. |
+
+-**[LLM-Agentic-Rules-Framework](https://github.com/LifeJiggy/LLM-Agentic-Rules-Framework)** 
+  - Structured rules and guardrails for reliable multi-agent AI systems. |
+
+- **[Rules-Emerging-Pattern](https://github.com/LifeJiggy/Rules-Emerging-Pattern)**
+  - Research into reusable reasoning patterns and evolving agent behaviours. |
+
+- **[Awesome-Grok-Workflows](https://github.com/LifeJiggy/Awesome-Grok-Workflows)** 
+  - Curated collection of production-ready Grok workflows and automation patterns. |
+
+- **[Awesome-Grok-Skills](https://github.com/LifeJiggy/Awesome-Grok-Skills)**
+  - Open-source repository of reusable Grok skills, prompts, and capabilities. |
+
+
 ---
 
 ### 🛡️ Security Research & Automation
@@ -241,9 +268,6 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 ### ⚙️ Developer Tooling
 
-- **[Markdown as Modules (MAM)](https://github.com/LifeJiggy/MAM)**
-  - Markdown-first modular architecture for agentic systems, reusable workflows, and AI execution.
-
 - **[PR-Guide](https://github.com/LifeJiggy/PR-Guide)**
   - Open-source guide for contributing effectively to GitHub projects.
 
@@ -255,6 +279,10 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 - **[DevConsole Toolkit](https://github.com/LifeJiggy/DevConsole-Toolkit)**
   - Developer utilities and automation tools for AI engineering and security research.
+ 
+- **[TCP Gateway](https://github.com/LifeJiggy/tcp-gateway)**
+  - API gateway and infrastructure components for scalable integrations.
+
 
 ---
 
@@ -263,11 +291,13 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 Building an ecosystem of open-source tools focused on:
 
 - 🤖 Agentic AI Systems
-- 🧠 Multi-Provider LLM Integration
-- 🔐 Security Research & Automation
-- ⚙️ Developer Experience
+- 🧠 Multi-Agent Architectures
+- 🔗 Multi-Provider LLM Integration
 - 📝 Markdown as Modules (MAM)
-- 🚀 Open Source Infrastructure
+- ⚙️ AI Developer Tooling
+- 🛡️ Security Research & Automation
+- 🌍 Open Source Infrastructure
+- 🚀 Autonomous Development Workflows
 
 ---
 
