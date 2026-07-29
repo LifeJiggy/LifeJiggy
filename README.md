@@ -203,20 +203,71 @@ Current interests include AI security, autonomous agents, runtime reliability, d
 
 • Web security and reconnaissance utilities (asset discovery, analysis and validation)
 
+---
 
 ## 🚀 Core Projects
 
-• **Ghost 👻 (Python)**  
-  AI-powered vulnerability scanner with agentic workflows, multi-model reasoning, and automated reporting  
+### 🤖 Agentic AI Platforms
 
-• **Grok-Code CLI (TypeScript)**  
-  Multi-agent coding system integrating different LLM providers for autonomous development tasks  
+- **[Ghost 👻](https://github.com/LifeJiggy/Ghost)** *(Python)*
+  - AI-powered vulnerability scanner with agentic workflows, multi-model reasoning, and automated security reporting.
 
-• **JSAnalyzer / DAST Engine (JavaScript)**  
-  Dynamic analysis + security testing engine for detecting web vulnerabilities  
+- **[Grok-Code CLI](https://github.com/LifeJiggy/Grok-Code-CLI)** *(TypeScript)*
+  - Multi-agent coding platform with multi-provider LLM integration, tool execution, and autonomous development workflows.
 
-• **Arkhangel Orchestrator**  
-  Central system coordinating multiple agentic CLIs and LLM providers  
+- **[Arkhangel](https://github.com/LifeJiggy/Arkhangel)** *(Python)*
+  - Agent orchestration platform coordinating autonomous agents, memory, tools, and multi-model reasoning.
+
+---
+
+### 🛡️ Security Research & Automation
+
+- **[JSAnalyzer](https://github.com/LifeJiggy/JSAnalyzer)** *(JavaScript)*
+  - JavaScript intelligence engine for web application analysis and client-side security research.
+
+- **[Rootkit](https://github.com/LifeJiggy/Rootkit)**
+  - Web reconnaissance and application mapping toolkit for bug bounty and offensive security workflows.
+
+- **[Alpha](https://github.com/LifeJiggy/Alpha)**
+  - Advanced JavaScript intelligence and reconnaissance framework.
+
+- **[Hercules-Hunt](https://github.com/LifeJiggy/Hercules-Hunt)**
+  - Automated reconnaissance and vulnerability discovery platform.
+
+- **[Prompt-Hunting](https://github.com/LifeJiggy/Prompt-Hunting)**
+  - AI-assisted prompt security and prompt injection research toolkit.
+
+---
+
+### ⚙️ Developer Tooling
+
+- **[Markdown as Modules (MAM)](https://github.com/LifeJiggy/markdown-as-modules)**
+  - Markdown-first modular architecture for agentic systems, reusable workflows, and AI execution.
+
+- **[PR-Guide](https://github.com/LifeJiggy/PR-Guide)**
+  - Open-source guide for contributing effectively to GitHub projects.
+
+- **[OSS-System-Prompts](https://github.com/LifeJiggy/OSS-system-prompts)**
+  - Curated collection of production-ready system prompts for agentic AI and open-source workflows.
+
+- **[TCP Token Optimizer](https://github.com/LifeJiggy/TCP-Token-Optimizer)**
+  - Token optimization and prompt compression toolkit for LLM applications.
+
+- **[DevConsole Toolkit](https://github.com/LifeJiggy/DevConsole-Toolkit)**
+  - Developer utilities and automation tools for AI engineering and security research.
+
+---
+
+### 🌍 Open Source Ecosystem (2026)
+
+Building an ecosystem of open-source tools focused on:
+
+- 🤖 Agentic AI Systems
+- 🧠 Multi-Provider LLM Integration
+- 🔐 Security Research & Automation
+- ⚙️ Developer Experience
+- 📝 Markdown as Modules (MAM)
+- 🚀 Open Source Infrastructure
 
 ---
 
