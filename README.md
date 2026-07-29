@@ -24,6 +24,28 @@ Status: BUILDING THE FUTURE 🚀
 Current Mode: > BUILD > CONTRIBUTE > HUNT > IMPROVE > REPEAT Status: ArkhAngel Mode Activated 🔥
 ```
 
+<p>
+  <img src="https://img.shields.io/badge/PR_Merges-20+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-620+-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-purple?style=for-the-badge" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
+
+
+# 👋 Hi, I'm Stephen (LifeJiggy)
+
+Bug Bounty Hunter • Open Source Contributor • AI/LLM Engineer • Developer Program Member • Chess Player
+
+I build security tooling, agentic AI systems, and developer infrastructure focused on automated vulnerability discovery, runtime reliability, and intelligent workflow automation.
+
+My work spans AI security, agent orchestration, open-source engineering, and multi-model LLM integration, with a strong focus on building practical systems that improve security research, developer productivity, and operational resilience.
+
+I actively contribute to leading agentic AI and developer ecosystems, delivering features, bug fixes, security hardening, and system enhancements across multiple open-source projects.
+
+Current interests include AI security, autonomous agents, runtime reliability, developer tooling, security automation, and scalable agentic infrastructure.
+
+
 ## ⚙️ Current Operating Mode
 
 ```mermaid
@@ -53,28 +75,6 @@ flowchart LR
     K --> L
 ```
 
-
-<p>
-  <img src="https://img.shields.io/badge/PR_Merges-20+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-620+-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-purple?style=for-the-badge" />
-</p>
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
-
-
-# 👋 Hi, I'm Stephen (LifeJiggy)
-
-Bug Bounty Hunter • Open Source Contributor • AI/LLM Engineer • Developer Program Member • Chess Player
-
-I build security tooling, agentic AI systems, and developer infrastructure focused on automated vulnerability discovery, runtime reliability, and intelligent workflow automation.
-
-My work spans AI security, agent orchestration, open-source engineering, and multi-model LLM integration, with a strong focus on building practical systems that improve security research, developer productivity, and operational resilience.
-
-I actively contribute to leading agentic AI and developer ecosystems, delivering features, bug fixes, security hardening, and system enhancements across multiple open-source projects.
-
-Current interests include AI security, autonomous agents, runtime reliability, developer tooling, security automation, and scalable agentic infrastructure.
 
 
   <img src="https://github-stats-extended.vercel.app/api?username=Lifejiggy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
