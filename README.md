@@ -444,22 +444,74 @@ timeline
 
 ## 🌱 Currently Working On
 
-🌱 Currently Working On
+```mermaid
+flowchart TD
 
-• Agentic AI systems for autonomous vulnerability discovery and validation
+    A["🌱 Current Focus"]
 
-• AI-assisted security tooling (LLM + SAST/DAST hybrid workflows)
+    %% =========================
+    %% Agentic AI
+    %% =========================
+    A --> B["🤖 Agentic AI Systems"]
+    B --> B1["Autonomous Vulnerability Discovery"]
+    B --> B2["Automated Validation"]
+    B --> B3["Multi-Agent Collaboration"]
+    B --> B4["Intelligent Task Orchestration"]
 
-• Runtime reliability improvements across open-source agent ecosystems
+    %% =========================
+    %% AI Security
+    %% =========================
+    A --> C["🛡️ AI Security Tooling"]
+    C --> C1["LLM-Assisted Security Analysis"]
+    C --> C2["Hybrid SAST / DAST Workflows"]
+    C --> C3["AI-Powered Vulnerability Assessment"]
 
-• OSS contributions to OpenClaude, Hermes-Agent, KiloCode, KimiCode and related projects
+    %% =========================
+    %% Open Source
+    %% =========================
+    A --> D["🌍 Open Source Contributions"]
+    D --> D1["OpenClaude"]
+    D --> D2["Hermes-Agent"]
+    D --> D3["KiloCode"]
+    D --> D4["Kimi-Code"]
+    D --> D5["Agentic AI Ecosystem"]
 
-• Advanced bug bounty workflows (automated recon → analysis → validation pipelines)
+    %% =========================
+    %% Bug Bounty
+    %% =========================
+    A --> E["🎯 Bug Bounty Automation"]
+    E --> E1["Reconnaissance"]
+    E --> E2["Security Analysis"]
+    E --> E3["Validation"]
+    E --> E4["Reporting Pipelines"]
 
-• LLM security research (prompt injection, agent exploitation, tool safety, memory trust boundaries)
+    %% =========================
+    %% AI Research
+    %% =========================
+    A --> F["🔬 LLM Security Research"]
+    F --> F1["Prompt Injection"]
+    F --> F2["Agent Exploitation"]
+    F --> F3["Tool Safety"]
+    F --> F4["Memory Trust Boundaries"]
 
-• Local + cloud AI infrastructure (Ollama, self-hosted models, API orchestration, multi-model systems)
+    %% =========================
+    %% Infrastructure
+    %% =========================
+    A --> G["☁️ AI Infrastructure"]
+    G --> G1["Ollama"]
+    G --> G2["Self-Hosted Models"]
+    G --> G3["API Orchestration"]
+    G --> G4["Multi-Provider LLM Systems"]
 
+    %% =========================
+    %% Runtime
+    %% =========================
+    A --> H["⚙️ Runtime Engineering"]
+    H --> H1["Reliability"]
+    H --> H2["Observability"]
+    H --> H3["Fault Tolerance"]
+    H --> H4["Performance Optimization"]
+```
 ---
 
 
