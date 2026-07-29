@@ -318,23 +318,36 @@ Every report is written to help engineers reproduce, understand, and fix the iss
 
 ---
 
-## Security Research
+## 🔬 Security Research
 
-Current research areas:
+```mermaid
+mindmap
+  root((🔬 Security Research))
 
-- API Security
-- IDOR
-- Authorization Bypass
-- Access Control
-- GraphQL Security
-- WebSocket Security
-- Spring Boot Security
-- OAuth & Session Security
-- CSRF
-- Information Disclosure
-- Cloud Reconnaissance
-- Business Logic
-- AI Agent Security
+    Web Security
+      API Security
+      GraphQL Security
+      WebSocket Security
+      Spring Boot Security
+
+    Access Control
+      IDOR
+      Authorization Bypass
+      Access Control
+      OAuth & Session Security
+      CSRF
+
+    Vulnerability Research
+      Information Disclosure
+      Business Logic
+      Cloud Reconnaissance
+
+    AI Security
+      AI Agent Security
+      Prompt Security
+      LLM Security
+      Agentic Systems
+```
 
 ---
 
