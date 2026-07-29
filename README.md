@@ -421,34 +421,28 @@ mindmap
       Continuous Learning
 ```
 
+## 📈 Progress Timeline
 
-## Progress Timeline
+```mermaid
+flowchart LR
 
-2025
+    A["2025"] --> B["🚀 First Bug Bounty Report"]
+    B --> C["🔁 First Duplicate"]
+    C --> D["🌍 First Open Source Contribution"]
 
-✓ First Bug Bounty Report
+    D --> E["2026"]
 
-✓ First Duplicate
+    E --> F["✅ First Valid Report"]
+    F --> G["🎯 First Triaged Report"]
+    G --> H["🏅 Hall of Fame Recognition"]
+    H --> I["🚨 Multiple High Severity Reports"]
+    I --> J["🌐 WebSocket Security Research"]
+    J --> K["📊 GraphQL Security Research"]
+    K --> L["♟️ Diamond Chess Player"]
+    L --> M["💰 First Bounty (Loading...)"]
 
-✓ First Open Source Contributions
-
-2026
-
-✓ First Valid Reports
-
-✓ Hall of Fame
-
-✓ Multiple High Severity Reports
-
-✓ WebSocket Research
-
-✓ GraphQL Research
-
-First Triaged 
-
-Diamond player from chess ♟️ 
-
-⏳ First Bounty
+    M --> N["🚀 Continuing the Journey"]
+```
 
 
 
