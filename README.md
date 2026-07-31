@@ -278,7 +278,7 @@ flowchart LR
 
 ### 🛡️ Security Research & Automation
 
-- **[Dast-Engine](https://github.com/LifeJiggy/dast-engine** *(JavaScript)*
+- **[Dast-Engine](https://github.com/LifeJiggy/dast-engine)** *(JavaScript)*
   - JavaScript intelligence engine for web application analysis and client-side security research.
 
 - **[Rootkit](https://github.com/LifeJiggy/Rootkit)**
@@ -467,7 +467,7 @@ timeline
          : 🌐 WebSocket Security Research
          : 📊 GraphQL Security Research
          : ♟️ Diamond Chess Player
-         : 💰 First Bounty (In Progress)
+         : 💰 First Bounty (Public bounty #500)
 ```
 
 
