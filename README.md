@@ -19,7 +19,7 @@ LifeJiggy@github:~$ run system-status
 ✔ Bug Bounty Mode: ENGAGED
 ✔ ArkhAngel Protocol: ENABLED
 
-Status: BUILDING THE FUTURE 🚀
+Status: BUILDING THE FUTURE! Build once. Reuse everywhere. MAM 🐐
 
 Current Mode: > BUILD > CONTRIBUTE > HUNT > IMPROVE > REPEAT Status: ArkhAngel Mode Activated 🔥
 ```
@@ -309,7 +309,7 @@ flowchart LR
 - **[DevConsole Toolkit](https://github.com/LifeJiggy/DevConsole-Toolkit)**
   - Developer utilities and automation tools for AI engineering and security research.
  
-- **[TCP Gateway](https://github.com/LifeJiggy/tcp-gateway)**
+- **[TCP Gateway](https://github.com/LifeJiggy/TCP-GateWay.git)**
   - API gateway and infrastructure components for scalable integrations.
 
 
