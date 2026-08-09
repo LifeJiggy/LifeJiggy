@@ -462,12 +462,12 @@ timeline
 
     2026 : ✅ First Valid Report
          : 🎯 First Triaged Report
-         : 🏅 Hall of Fame Recognition
+         : 🏅 Hall of Fame Recognition *2 
          : 🚨 Multiple High Severity Reports
          : 🌐 WebSocket Security Research
          : 📊 GraphQL Security Research
          : ♟️ Diamond Chess Player
-         : 💰 First Bounty (Public bounty #500)
+         : 💰 First Bounty (Public bounty Asana #500)
 ```
 
 
