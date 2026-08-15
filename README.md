@@ -551,13 +551,48 @@ Open to collaborating on:
 
 ---
 
-**⭐ Open to collaborating on open-source infrastructure, agentic AI systems, developer tooling, security research, and high-impact engineering projects.**
+**⭐⭐ Open to collaborating on open-source infrastructure, agentic AI systems, AI/LLM engineering, developer tooling, cybersecurity, security research, and high-impact engineering projects.
 
-**"From Zero to Hero"** — Started with curiosity, persistence, and a willingness to learn. Navigated rejections, failed attempts, difficult reviews, merge conflicts, countless debugging sessions, and platform restrictions. Kept building anyway.
+From Curiosity to Systems
 
-Today, that journey has grown into contributor badges across multiple agentic projects, merged pull requests, developer program memberships (GitHub, Google, Nvidia, Meta, Minimax), open-source tools like Rootkit, and meaningful security research contributions. 
+What started with curiosity, persistence, and a willingness to learn has evolved into a continuous journey of building, contributing, breaking, fixing, and rebuilding.
 
-Currently focused on high-impact bug bounty hunting, agentic workflow systems, and building the next generation of security tooling.
+The path has included rejected ideas, failed experiments, difficult reviews, merge conflicts, debugging sessions, platform restrictions, technical limitations, and countless moments where the easier choice would have been to stop.
+
+I kept building.
+
+That persistence eventually turned into open-source contributions, merged pull requests, developer program memberships, security research, reusable developer tooling, and systems designed to solve real technical problems.
+
+Today, my work extends beyond individual projects.
+
+As the founder of TCP Ecosystems, I’m building an open-source ecosystem focused on AI infrastructure, agentic systems, cybersecurity, developer tooling, and intelligent automation.
+
+The goal is simple:
+
+«Turn ideas into production-grade systems, and continuously evolve those systems through real-world use, research, collaboration, and open-source contribution.»
+
+My work currently spans projects involving LLM integration, agent orchestration, runtime infrastructure, security intelligence, automated vulnerability research, developer workflows, and reusable system architectures.
+
+I believe the strongest technology is not built once and forgotten.
+
+It evolves.
+
+Every experiment can become a system.
+Every system can become infrastructure.
+Every contribution can strengthen an ecosystem.
+And every ecosystem can create opportunities for others to build on top of it.
+
+What I'm Building Toward 🚀
+
+TCP Ecosystems is being built around a long-term vision:
+
+AI infrastructure + Agentic Systems + Cybersecurity + Open Source = reusable technology ecosystems.
+
+I'm continuing to build, contribute, research, collaborate, and evolve — one system at a time.
+
+The foundation is being built now. The ecosystem comes next.
+
+⭐ If you're building ambitious technology and believe in open collaboration, you're welcome to build with us.
 
 
 ⚔️ **ArkhAngel Mode Activated**
