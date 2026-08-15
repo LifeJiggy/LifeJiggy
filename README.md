@@ -5,8 +5,9 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Stephen+(LifeJiggy);Open+Source+Developer+%26+Contributor;%24+stack;Agentic+AI+%7C+LLM+Integration+%7C+Offensive+Security;%24+mission;Building+security+tooling+and+autonomous+systems;%24+status;Running+scanners+%7C+Orchestrating+agents...;%24+system;ACTIVE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=950&lines=%24+whoami;Stephen+(LifeJiggy);Founder+%7C+TCP+Ecosystems;%24+focus;AI+Infrastructure+%7C+Agentic+Systems;%24+domain;Cybersecurity+%7C+Open+Source+%7C+Developer+Tooling;%24+build;Turning+Ideas+into+Production+Systems;%24+philosophy;Build+%7C+Contribute+%7C+Evolve;%24+mission;Building+Open-Source+Technology+Ecosystems;%24+status;Systems+Evolving...;%24+system;TCP+ECOSYSTEMS+%7C+ACTIVE" />
 </p>
+
 
 ```bash
 LifeJiggy@github:~$ run system-status
