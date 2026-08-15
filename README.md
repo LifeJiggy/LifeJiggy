@@ -191,7 +191,9 @@ Languages & Scripting
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>Systems & Modules
+</p>
+
+Systems & Modules
 
 <p>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
@@ -210,6 +212,9 @@ Languages & Scripting
   <img src="https://img.shields.io/badge/Web%2FAPI_Security-B91C1C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bug_Bounty-Research-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Security_Automation-7F1D1D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevTools-FE7A16?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+    
 </p>Development & Infrastructure
 
 <p>
@@ -217,26 +222,14 @@ Languages & Scripting
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>«Core approach: Markdown/MAM for modular system definition, Python and JavaScript/TypeScript for implementation and runtime engineering, and AI/LLM infrastructure for intelligent orchestration and automation.»
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+</p>
+
+«Core approach: Markdown/MAM for modular system definition, Python and JavaScript/TypeScript for implementation and runtime engineering, and AI/LLM infrastructure for intelligent orchestration and automation.»
 
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-
----
-
-**Security & Development Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevTools-FE7A16?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
 
 ---
 
