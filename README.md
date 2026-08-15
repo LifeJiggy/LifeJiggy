@@ -33,17 +33,21 @@ Current Mode: > BUILD > CONTRIBUTE > HUNT > IMPROVE > REPEAT Status: ArkhAngel M
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
 
 
-# 👋 Hi, I'm Stephen (LifeJiggy)
+# 👋 Hi, I'm Stephen (LifeJiggy) — Founder of TCP Ecosystems.
 
-Bug Bounty Hunter • Open Source Contributor • AI/LLM Engineer • Developer Program Member • Chess Player
+Founder • Bug Bounty Hunter • Open Source Contributor • AI/LLM Engineer • Developer Program Member • Chess Player
 
-I build security tooling, agentic AI systems, and developer infrastructure focused on automated vulnerability discovery, runtime reliability, and intelligent workflow automation.
+I build and lead open-source systems at the intersection of AI infrastructure, agentic engineering, cybersecurity, and developer tooling.
 
-My work spans AI security, agent orchestration, open-source engineering, and multi-model LLM integration, with a strong focus on building practical systems that improve security research, developer productivity, and operational resilience.
+Through TCP Ecosystems, I’m developing reusable, production-oriented systems that turn complex technical ideas into working infrastructure, intelligent workflows, and evolving open-source solutions.
 
-I actively contribute to leading agentic AI and developer ecosystems, delivering features, bug fixes, security hardening, and system enhancements across multiple open-source projects.
+My work spans AI/LLM integration, autonomous agents, security intelligence, offensive security research, runtime engineering, developer infrastructure, and workflow automation — with a focus on building systems that are practical, composable, and designed to evolve.
 
-Current interests include AI security, autonomous agents, runtime reliability, developer tooling, security automation, and scalable agentic infrastructure.
+I actively contribute to and collaborate across open-source AI and developer ecosystems, working on features, integrations, security improvements, architecture, tooling, and system reliability.
+
+As a founder, my focus is not just on individual tools, but on building an ecosystem where systems, contributors, research, and ideas can compound into useful technology.
+
+Current focus: AI infrastructure • Agentic systems • AI security • Offensive security • Open-source ecosystems • Runtime reliability • Developer tooling • Intelligent automation
 
 
 ## ⚙️ Current Operating Mode
