@@ -180,16 +180,44 @@ flowchart LR
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+Languages & Scripting
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>Systems & Modules
+
+<p>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAM-Markdown_as_Modules-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>AI / LLM
+
+<p>
+  <img src="https://img.shields.io/badge/LLM_Integration-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Model_Systems-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agent_Orchestration-DB2777?style=for-the-badge" />
+</p>Security & Research
+
+<p>
+  <img src="https://img.shields.io/badge/Web%2FAPI_Security-B91C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug_Bounty-Research-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security_Automation-7F1D1D?style=for-the-badge" />
+</p>Development & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>«Core approach: Markdown/MAM for modular system definition, Python and JavaScript/TypeScript for implementation and runtime engineering, and AI/LLM infrastructure for intelligent orchestration and automation.»
 
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
