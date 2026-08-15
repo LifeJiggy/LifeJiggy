@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=LifeJiggy%20%7C%20Open%20Source%20Developer&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Bug%20Bounty%20Hunter%20%7C%20Agentic%20AI%20Systems%20%7C%20LLM%20Integration&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=LifeJiggy%20%7C%20Founder%20%7C%20TCP%20Ecosystems&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%20Infrastructure%20%7C%20Agentic%20Systems%20%7C%20Cybersecurity%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn" />
 
 </div>
 
@@ -33,7 +33,7 @@ Current Mode: > BUILD > CONTRIBUTE > HUNT > IMPROVE > REPEAT Status: ArkhAngel M
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
 
 
-# 👋 Hi, I'm Stephen (LifeJiggy) — Founder of TCP Ecosystems.
+# 👋 Hi, I'm Stephen (ArkhAngelLifeJiggy)— Founder of TCP Ecosystems.
 
 Founder • Bug Bounty Hunter • Open Source Contributor • AI/LLM Engineer • Developer Program Member • Chess Player
 
@@ -595,11 +595,15 @@ The foundation is being built now. The ecosystem comes next.
 ⭐ If you're building ambitious technology and believe in open collaboration, you're welcome to build with us.
 
 
-⚔️ **ArkhAngel Mode Activated**
+⚔️ ⚡ ArkhAngel Mode Activated
 
+Learning. Building. Contributing. Hunting. Evolving. Open Source 
 
-**Building. Hacking. Hunting. Learning. Contributing. Improving.**
+🚀 The mission remains the same: create value, solve hard problems, build systems that matter, and leave every system better than I found it.
 
+Build the idea.
+Strengthen the system.
+Share the knowledge.
+Evolve the ecosystem.
 
-🚀 **The mission remains the same: create value, solve hard problems, and leave every system better than I found it.**
-
+— ArkhAngelLifeJiggy | Founder, TCP Ecosystems
