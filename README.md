@@ -59,7 +59,7 @@ Status: TCP ECOSYSTEMS — ACTIVE 🚀
 
 <p align="center">
   <img src="https://img.shields.io/badge/PR_Merges-20%2B-1d4ed8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-620%2B-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-1200+%2B-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-ec4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TCP_Ecosystems-Founder-111827?style=for-the-badge" />
 </p>
