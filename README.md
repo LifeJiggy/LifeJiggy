@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=LifeJiggy%20%7C%20Founder%20%7C%20TCP%20Ecosystems&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%20Infrastructure%20%7C%20Agentic%20Systems%20%7C%20Cybersecurity%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=ArkhAngelLifeJiggy%20%7C%20Founder%20%7C%20TCP%20Ecosystems&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%20Infrastructure%20%7C%20Agentic%20Systems%20%7C%20Cybersecurity%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn" />
 
 </div>
 
@@ -10,19 +10,51 @@
 
 
 ```bash
-LifeJiggy@github:~$ run system-status
+LifeJiggy@github:~$ tcp system-status
 
-✔ LLM Integration: ACTIVE
-✔ Security Research: RUNNING
-✔ Agentic Workflows: OPERATIONAL
-✔ Open Source Contributions: MERGING
-✔ Runtime Reliability: MONITORING
-✔ Bug Bounty Mode: ENGAGED
-✔ ArkhAngel Protocol: ENABLED
+[✓] AI Infrastructure          :: ACTIVE
+[✓] Agentic Systems            :: EVOLVING
+[✓] LLM Integration            :: OPERATIONAL
+[✓] Cybersecurity Research    :: ACTIVE
+[✓] Security Intelligence     :: RUNNING
+[✓] Developer Infrastructure  :: BUILDING
+[✓] Open Source Ecosystem     :: GROWING
+[✓] Runtime Reliability       :: MONITORING
+[✓] Bug Bounty Research       :: ENGAGED
+[✓] MAM / Modular Systems     :: EVOLVING
 
-Status: BUILDING THE FUTURE! Build once. Reuse everywhere. MAM 🐐
+$ tcp mission
 
-Current Mode: > BUILD > CONTRIBUTE > HUNT > IMPROVE > REPEAT Status: ArkhAngel Mode Activated 🔥
+> Turn ideas into production-grade systems.
+> Build reusable infrastructure.
+> Contribute to open source.
+> Solve hard problems.
+> Evolve every system through real-world use.
+
+$ tcp philosophy
+
+BUILD > CONTRIBUTE > RESEARCH > HUNT > IMPROVE > EVOLVE > REPEAT
+
+$ tcp ecosystem
+
+AI + AGENTS + SECURITY + OPEN SOURCE
+              ↓
+       TCP ECOSYSTEMS
+
+$ tcp status
+
+SYSTEMS:     EVOLVING
+FOUNDATION:  ACTIVE
+ECOSYSTEM:   BUILDING
+MODE:        ARKHANGEL 🔥
+
+$ tcp command
+
+Build once.
+Reuse everywhere.
+Evolve continuously.
+
+Status: TCP ECOSYSTEMS — ACTIVE 🚀
 ```
 
 <p>
