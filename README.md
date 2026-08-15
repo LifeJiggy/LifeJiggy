@@ -57,11 +57,20 @@ Evolve continuously.
 Status: TCP ECOSYSTEMS — ACTIVE 🚀
 ```
 
-<p>
-  <img src="https://img.shields.io/badge/PR_Merges-20+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-620+-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-purple?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/PR_Merges-20%2B-1d4ed8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-620%2B-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-ec4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP_Ecosystems-Founder-111827?style=for-the-badge" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FLLM-Engineering-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-Systems-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Research-b91c1c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug_Bounty-Research-f59e0b?style=for-the-badge" />
+</p>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
 
