@@ -199,14 +199,23 @@ Systems & Modules
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/MAM-Markdown_as_Modules-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
-</p>AI / LLM
+</p>
+
+AI / LLM
 
 <p>
   <img src="https://img.shields.io/badge/LLM_Integration-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agentic_AI-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Multi--Model_Systems-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agent_Orchestration-DB2777?style=for-the-badge" />
-</p>Security & Research
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  
+</p>
+
+Security & Research
 
 <p>
   <img src="https://img.shields.io/badge/Web%2FAPI_Security-B91C1C?style=for-the-badge" />
@@ -215,7 +224,9 @@ Systems & Modules
   <img src="https://img.shields.io/badge/DevTools-FE7A16?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
     
-</p>Development & Infrastructure
+</p>
+
+Development & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -229,19 +240,6 @@ Systems & Modules
 
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=LifeJiggy&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-
----
-
-**AI / Automation**
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
 
 ---
 
