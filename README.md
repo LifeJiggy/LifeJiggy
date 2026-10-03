@@ -323,7 +323,7 @@ Development & Infrastructure
 ### 🧠 AI Engineering & Knowledge Systems
 
 
-- **[MAM (Markdown as Modules)](https://github.com/LifeJiggy/MAM)**
+- **[MAM (Machine Agent Modules)](https://github.com/LifeJiggy/MAM)**
   - Markdown-first modular architecture for AI systems, reusable workflows, and executable documentation. |
 
 -**[LLM-Agentic-Rules-Framework](https://github.com/LifeJiggy/LLM-Agentic-Rules-Framework)** 
