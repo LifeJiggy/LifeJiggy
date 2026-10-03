@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=ArkhAngelLifeJiggy%20%7C%20Founder%20%7C%20TCP%20Ecosystems&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%20Infrastructure%20%7C%20Agentic%20Systems%20%7C%20Cybersecurity%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=ArkhAngelLifeJiggy%20%7C%20Founder%20%7C%20TCP%20Ecosystem&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%20Infrastructure%20%7C%20Agentic%20Systems%20%7C%20Cybersecurity%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn" />
 
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=950&lines=%24+whoami;Stephen+(LifeJiggy);Founder+%7C+TCP+Ecosystems;%24+focus;AI+Infrastructure+%7C+Agentic+Systems;%24+domain;Cybersecurity+%7C+Open+Source+%7C+Developer+Tooling;%24+build;Turning+Ideas+into+Production+Systems;%24+philosophy;Build+%7C+Contribute+%7C+Evolve;%24+mission;Building+Open-Source+Technology+Ecosystems;%24+status;Systems+Evolving...;%24+system;TCP+ECOSYSTEMS+%7C+ACTIVE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=950&lines=%24+whoami;Stephen+(LifeJiggy);Founder+%7C+TCP+Ecosystem;%24+focus;AI+Infrastructure+%7C+Agentic+Systems;%24+domain;Offensive+Security+%7C+Open+Source+%7C+Developer+Tooling;%24+build;Turning+Ideas+into+Production+Systems;%24+philosophy;Build+%7C+Contribute+%7C+Evolve;%24+mission;Building+Open-Source+Technology+Ecosystems;%24+status;Systems+Evolving...;%24+system;TCP+ECOSYSTEMS+%7C+ACTIVE" />
 </p>
 
 
@@ -54,11 +54,11 @@ Build once.
 Reuse everywhere.
 Evolve continuously.
 
-Status: TCP ECOSYSTEMS — ACTIVE 🚀
+Status: TCP ECOSYSTEM — ACTIVE 🚀
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PR_Merges-20%2B-1d4ed8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PR_Merges-30%2B-1d4ed8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Contributions-1200+%2B-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-ec4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TCP_Ecosystems-Founder-111827?style=for-the-badge" />
@@ -75,13 +75,13 @@ Status: TCP ECOSYSTEMS — ACTIVE 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=LifeJiggy&color=blueviolet&style=flat)
 
 
-# 👋 Hi, I'm Stephen (ArkhAngelLifeJiggy)— Founder of TCP Ecosystems.
+# 👋 Hi, I'm Stephen (ArkhAngelLifeJiggy)— Founder of TCP Ecosystem.
 
 Founder • Bug Bounty Hunter • Open Source Contributor • AI/LLM Engineer • Developer Program Member • Chess Player
 
 I build and lead open-source systems at the intersection of AI infrastructure, agentic engineering, cybersecurity, and developer tooling.
 
-Through TCP Ecosystems, I’m developing reusable, production-oriented systems that turn complex technical ideas into working infrastructure, intelligent workflows, and evolving open-source solutions.
+Through TCP Ecosystem, I’m developing reusable, production-oriented systems that turn complex technical ideas into working infrastructure, intelligent workflows, and evolving open-source solutions.
 
 My work spans AI/LLM integration, autonomous agents, security intelligence, offensive security research, runtime engineering, developer infrastructure, and workflow automation — with a focus on building systems that are practical, composable, and designed to evolve.
 
@@ -645,7 +645,7 @@ And every ecosystem can create opportunities for others to build on top of it.
 
 What I'm Building Toward 🚀
 
-TCP Ecosystems is being built around a long-term vision:
+TCP Ecosystem is being built around a long-term vision:
 
 AI infrastructure + Agentic Systems + Cybersecurity + Open Source = reusable technology ecosystems.
 
@@ -667,4 +667,4 @@ Strengthen the system.
 Share the knowledge.
 Evolve the ecosystem.
 
-— ArkhAngelLifeJiggy | Founder, TCP Ecosystems
+— ArkhAngelLifeJiggy | Founder, TCP Ecosystem
