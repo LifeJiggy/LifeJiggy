@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=ArkhAngelLifeJiggy%20%7C%20Founder%20%7C%20TCP%20Ecosystem&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%20Infrastructure%20%7C%20Agentic%20Systems%20%7C%20Cybersecurity%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:1d4ed8,70:7c3aed,100:ec4899&text=ArkhAngelLifeJiggy%20%7C%20Founder%20%7C%20TCP%20Ecosystem&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=AI%20Infrastructure%20%7C%20Agentic%20Systems%20%7C%20Offensivesecurity%20%7C%20Open%20Source&descAlignY=60&animation=fadeIn" />
 
 </div>
 
