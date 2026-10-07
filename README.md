@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=950&lines=%24+whoami;Stephen+(LifeJiggy);Founder+%7C+TCP+Ecosystem;%24+focus;AI+Infrastructure+%7C+Agentic+Systems;%24+domain;Offensive+Security+%7C+Open+Source+%7C+Developer+Tooling;%24+build;Turning+Ideas+into+Production+Systems;%24+philosophy;Build+%7C+Contribute+%7C+Evolve;%24+mission;Building+Open-Source+Technology+Ecosystems;%24+status;Systems+Evolving...;%24+system;TCP+ECOSYSTEMS+%7C+ACTIVE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=950&lines=%24+whoami;Stephen+(LifeJiggy);Founder+%7C+TCP+Ecosystem;%24+focus;AI+Infrastructure+%7C+Agentic+Systems;%24+domain;Offensive+Security+%7C+Open+Source+%7C+Developer+Tooling;%24+build;Turning+Ideas+into+Production+Systems;%24+philosophy;Build+%7C+Contribute+%7C+Evolve;%24+mission;Building+Open-Source+Technology+Ecosystems;%24+status;Systems+Evolving...;%24+system;TCP+ECOSYSTEM+%7C+ACTIVE" />
 </p>
 
 
