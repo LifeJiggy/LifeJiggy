@@ -343,9 +343,6 @@ Development & Infrastructure
 
 ### 🛡️ Security Research & Automation
 
-- **[Dast-Engine](https://github.com/LifeJiggy/dast-engine)** *(JavaScript)*
-  - JavaScript intelligence engine for web application analysis and client-side security research.
-
 - **[Rootkit](https://github.com/LifeJiggy/Rootkit)**
   - Web reconnaissance and application mapping toolkit for bug bounty and offensive security workflows.
 
