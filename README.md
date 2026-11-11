@@ -122,7 +122,6 @@ flowchart LR
 ```
 
 
-
   <img src="https://github-stats-extended.vercel.app/api?username=Lifejiggy&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
 
@@ -193,6 +192,7 @@ Languages & Scripting
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
+
 Systems & Modules
 
 <p>
@@ -200,6 +200,7 @@ Systems & Modules
   <img src="https://img.shields.io/badge/MAM-Markdown_as_Modules-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 </p>
+
 
 AI / LLM
 
@@ -212,8 +213,9 @@ AI / LLM
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  
+
 </p>
+
 
 Security & Research
 
