@@ -39,7 +39,7 @@ $ tcp ecosystem
 
 AI + AGENTS + SECURITY + OPEN SOURCE
               ↓
-       TCP ECOSYSTEMS
+       TCP ECOSYSTEM
 
 $ tcp status
 
@@ -625,7 +625,7 @@ That persistence eventually turned into open-source contributions, merged pull r
 
 Today, my work extends beyond individual projects.
 
-As the founder of TCP Ecosystems, I’m building an open-source ecosystem focused on AI infrastructure, agentic systems, cybersecurity, developer tooling, and intelligent automation.
+As the founder of TCP Ecosystem, I’m building an open-source ecosystem focused on AI infrastructure, agentic systems, cybersecurity, developer tooling, and intelligent automation.
 
 The goal is simple:  «Turn ideas into production-grade systems, and continuously evolve those systems through real-world use, research, collaboration, and open-source contribution.»
 
