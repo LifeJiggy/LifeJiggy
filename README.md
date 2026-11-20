@@ -15,7 +15,7 @@ LifeJiggy@github:~$ tcp system-status
 [✓] AI Infrastructure          :: ACTIVE
 [✓] Agentic Systems            :: EVOLVING
 [✓] LLM Integration            :: OPERATIONAL
-[✓] Cybersecurity Research    :: ACTIVE
+[✓] Offensive Security Research :: ACTIVE
 [✓] Security Intelligence     :: RUNNING
 [✓] Developer Infrastructure  :: BUILDING
 [✓] Open Source Ecosystem     :: GROWING
@@ -79,7 +79,7 @@ Status: TCP ECOSYSTEM — ACTIVE 🚀
 
 Founder • Bug Bounty Hunter • Open Source Contributor • AI/LLM Engineer • Developer Program Member • Chess Player
 
-I build and lead open-source systems at the intersection of AI infrastructure, agentic engineering, cybersecurity, and developer tooling.
+I build and lead open-source systems at the intersection of AI infrastructure, agentic engineering, offensivesecurity, and developer tooling.
 
 Through TCP Ecosystem, I’m developing reusable, production-oriented systems that turn complex technical ideas into working infrastructure, intelligent workflows, and evolving open-source solutions.
 
@@ -611,7 +611,7 @@ Open to collaborating on:
 
 ---
 
-**⭐⭐ Open to collaborating on open-source infrastructure, agentic AI systems, AI/LLM engineering, developer tooling, cybersecurity, security research, and high-impact engineering projects.
+**⭐⭐ Open to collaborating on open-source infrastructure, agentic AI systems, AI/LLM engineering, developer tooling, offensivesecurity, security research, and high-impact engineering projects.
 
 From Curiosity to Systems
 
@@ -625,7 +625,7 @@ That persistence eventually turned into open-source contributions, merged pull r
 
 Today, my work extends beyond individual projects.
 
-As the founder of TCP Ecosystem, I’m building an open-source ecosystem focused on AI infrastructure, agentic systems, cybersecurity, developer tooling, and intelligent automation.
+As the founder of TCP Ecosystem, I’m building an open-source ecosystem focused on AI infrastructure, agentic systems, Offensivesecurity, developer tooling, and intelligent automation.
 
 The goal is simple:  «Turn ideas into production-grade systems, and continuously evolve those systems through real-world use, research, collaboration, and open-source contribution.»
 
@@ -644,7 +644,7 @@ What I'm Building Toward 🚀
 
 TCP Ecosystem is being built around a long-term vision:
 
-AI infrastructure + Agentic Systems + Cybersecurity + Open Source = reusable technology ecosystems.
+AI infrastructure + Agentic Systems + Offensivesecurity + Open Source = reusable technology ecosystems.
 
 I'm continuing to build, contribute, research, collaborate, and evolve — one system at a time.
 
