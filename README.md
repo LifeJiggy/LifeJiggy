@@ -58,10 +58,10 @@ Status: TCP ECOSYSTEM — ACTIVE 🚀
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PR_Merges-30%2B-1d4ed8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Contributions-1200+%2B-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PR_Merges-40%2B-1d4ed8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contributions-1600+%2B-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-ec4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TCP_Ecosystems-Founder-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP_Ecosystem-Founder-111827?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -289,7 +289,7 @@ Development & Infrastructure
 
 • LLM-integrated developer tooling (code analysis, generation, refactoring, workflow automation)
 
-• Bug bounty automation pipelines (recon → analysis → validation → reporting)
+• Bug bounty automation pipelines (recon → mapping → analysis → validation → reporting)
 
 • Autonomous workflows powered by markdown-driven execution and agent collaboration
 
@@ -644,7 +644,7 @@ What I'm Building Toward 🚀
 
 TCP Ecosystem is being built around a long-term vision:
 
-AI infrastructure + Agentic Systems + Offensivesecurity + Open Source = reusable technology ecosystems.
+AI infrastructure + Agentic Systems + Offensive Security + Open Source = reusable technology ecosystems.
 
 I'm continuing to build, contribute, research, collaborate, and evolve — one system at a time.
 
